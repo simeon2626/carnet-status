@@ -133,12 +133,8 @@
     }
 
     /* ── Tooltip ──────────────────────────────────────────── */
-    .carnet-card[data-tooltip]:hover::after {
-      content: attr(data-tooltip);
-      position: absolute;
-      bottom: calc(100% + 6px);
-      left: 50%;
-      transform: translateX(-50%);
+    #tt {
+      position: fixed;
       background: #333;
       color: #fff;
       padding: 6px 10px;
@@ -147,9 +143,10 @@
       white-space: pre-line;
       min-width: 160px;
       max-width: 260px;
-      z-index: 100;
+      z-index: 9999;
       pointer-events: none;
       box-shadow: 0 2px 8px rgba(0,0,0,.4);
+      display: none;
     }
 
     /* ── Error / Loading ──────────────────────────────────── */
@@ -205,6 +202,7 @@
 
 <div id="today-banner">Дата: —</div>
 
+<div id="tt"></div>
 <div id="loading">Зарежда данни…</div>
 <div id="status-message"></div>
 <div class="grid-wrapper" id="grid-wrapper" style="display:none;">
@@ -304,6 +302,46 @@
     }
 
     document.getElementById('grid-wrapper').style.display = 'block';
+  }
+
+  /* ── Tooltip logic ────────────────────────────────────── */
+  const tt = document.getElementById('tt');
+  const MARGIN = 8; // px gap between card and tooltip
+
+  document.addEventListener('mouseover', e => {
+    const card = e.target.closest('[data-tooltip]');
+    if (!card) return;
+    tt.textContent = card.dataset.tooltip;
+    tt.style.display = 'block';
+    positionTooltip(card);
+  });
+
+  document.addEventListener('mouseout', e => {
+    const card = e.target.closest('[data-tooltip]');
+    if (!card) return;
+    tt.style.display = 'none';
+  });
+
+  function positionTooltip(card) {
+    const r   = card.getBoundingClientRect();
+    const ttH = tt.offsetHeight;
+    const ttW = tt.offsetWidth;
+    const vw  = window.innerWidth;
+
+    // Prefer above; flip below if not enough room
+    let top;
+    if (r.top - ttH - MARGIN >= 0) {
+      top = r.top - ttH - MARGIN;   // above
+    } else {
+      top = r.bottom + MARGIN;       // below
+    }
+
+    // Horizontally center on card, clamp to viewport
+    let left = r.left + r.width / 2 - ttW / 2;
+    left = Math.max(MARGIN, Math.min(left, vw - ttW - MARGIN));
+
+    tt.style.top  = top  + 'px';
+    tt.style.left = left + 'px';
   }
 
   /* ── Boot ─────────────────────────────────────────────── */
