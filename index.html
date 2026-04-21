@@ -135,17 +135,12 @@
     .carnet-number.bold { font-weight: 800; }
 
     .carnet-person {
-      font-size: 0.65rem;
+      font-size: 0.75rem;
       color: #444;
       margin-top: 2px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .indicator-row {
-      font-size: 0.7rem;
-      margin-top: 2px;
+      white-space: normal;
+      word-break: break-word;
+      line-height: 1.25;
     }
 
     /* ── Tooltip ──────────────────────────────────────────── */
@@ -310,7 +305,7 @@
 
         // Number
         const numEl = document.createElement('div');
-        numEl.className = 'carnet-number' + (carnet.has_comment || carnet.has_reminder ? ' bold' : '');
+        numEl.className = 'carnet-number';
         numEl.textContent = carnet.numero;
         card.appendChild(numEl);
 
@@ -319,32 +314,15 @@
         if (person) {
           const personEl = document.createElement('div');
           personEl.className = 'carnet-person';
-          // Show only first name / surname abbreviation for brevity
-          personEl.textContent = formatName(person);
+          personEl.textContent = person;
           card.appendChild(personEl);
         }
-
-        // Indicators
-        const indRow = document.createElement('div');
-        indRow.className = 'indicator-row';
-        if (carnet.has_comment)  indRow.textContent += '💬';
-        if (carnet.has_reminder) indRow.textContent += '🔔';
-        if (indRow.textContent) card.appendChild(indRow);
 
         grid.appendChild(card);
       }
     }
 
     document.getElementById('grid-wrapper').style.display = 'block';
-  }
-
-  /* ── Helpers ──────────────────────────────────────────── */
-  function formatName(fullName) {
-    if (!fullName) return '';
-    const parts = fullName.trim().split(/\s+/);
-    if (parts.length === 1) return fullName;
-    // "Иван Иванов" → "И. Иванов"
-    return parts[0][0] + '. ' + parts.slice(1).join(' ');
   }
 
   /* ── Boot ─────────────────────────────────────────────── */
