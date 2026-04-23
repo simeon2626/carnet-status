@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.04.2026 08:06",
+  "updated_at": "23.04.2026 08:16",
   "today": "23.04.2026",
   "carnets": [
     {
@@ -212,7 +212,7 @@
     {
       "numero": 2604,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "date_from": "17.04.2026",
@@ -392,7 +392,7 @@
     {
       "numero": 3204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "21.04.2026",
@@ -482,7 +482,7 @@
     {
       "numero": 3404,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "21.04.2026",
@@ -518,7 +518,7 @@
     {
       "numero": 3603,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "20.04.2026",
@@ -626,7 +626,7 @@
     {
       "numero": 3805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "20.04.2026",
@@ -707,7 +707,7 @@
     {
       "numero": 4104,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "21.04.2026",
@@ -752,7 +752,7 @@
     {
       "numero": 4204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "date_from": "17.04.2026",
@@ -806,7 +806,7 @@
     {
       "numero": 4305,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "20.04.2026",
@@ -878,7 +878,7 @@
     {
       "numero": 4504,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "21.04.2026",
@@ -887,7 +887,7 @@
     {
       "numero": 4505,
       "column": 4,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "22.04.2026",
@@ -1058,7 +1058,7 @@
     {
       "numero": 4904,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "20.04.2026",
@@ -1193,7 +1193,7 @@
     {
       "numero": 5124,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "20.04.2026",
@@ -1238,7 +1238,7 @@
     {
       "numero": 5134,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "21.04.2026",
@@ -1508,7 +1508,7 @@
     {
       "numero": 5504,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "21.04.2026",
@@ -1688,7 +1688,7 @@
     {
       "numero": 5904,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "20.04.2026",
@@ -1733,7 +1733,7 @@
     {
       "numero": 7104,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "20.04.2026",
