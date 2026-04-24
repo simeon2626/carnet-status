@@ -514,15 +514,6 @@
     emp.schedule.forEach(row => {
       const tr = document.createElement('tr');
 
-      // Tooltip for this row
-      const tipParts = [
-        'Карнет: '    + row.numero,
-        'От дата: '   + (row.date_from || '—'),
-        'До дата: '   + (row.date_to   || '—'),
-      ];
-      if (row.titular) tipParts.push('Титуляр: ' + row.titular);
-      tr.setAttribute('data-tooltip', tipParts.join('\n'));
-
       const tdNum = document.createElement('td');
       tdNum.textContent = row.numero;
       tr.appendChild(tdNum);
