@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.04.2026 08:19",
+  "updated_at": "24.04.2026 12:09",
   "today": "24.04.2026",
   "carnets": [
     {
@@ -1765,6 +1765,1524 @@
       "incasator": "",
       "date_from": "",
       "date_to": ""
+    }
+  ],
+  "employees": [
+    {
+      "id": 25,
+      "name": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3101,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3102,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3103,
+          "date_from": "15.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3104,
+          "date_from": "17.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3904,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3105,
+          "date_from": "24.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 215,
+      "name": "БОРЯНА БОЙКОВА КЮЧУКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5401,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5402,
+          "date_from": "07.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5403,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5404,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4104,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5405,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 15,
+      "name": "БОРЯНА БОРИСОВА БОЖИНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5301,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5302,
+          "date_from": "07.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4802,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5303,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5304,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5305,
+          "date_from": "24.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 37,
+      "name": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5801,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5802,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5803,
+          "date_from": "14.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5804,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4804,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 5805,
+          "employee": "СВЕТЛА ДИМОВА ПЕТКОВА"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "ВАНЯ МИТКОВА КАРАИВАНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5501,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4502,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5502,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5503,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5504,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5505,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 131,
+      "name": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2701,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2702,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2703,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2704,
+          "date_from": "17.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2705,
+          "date_from": "21.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 208,
+      "name": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3801,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3802,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3803,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3804,
+          "date_from": "16.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3805,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4105,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 142,
+      "name": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5601,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5602,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4102,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5603,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5604,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5605,
+          "date_from": "24.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 145,
+      "name": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4201,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4202,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4203,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4204,
+          "date_from": "17.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4205,
+          "date_from": "23.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 206,
+      "name": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5104,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5105,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 4301,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 5101,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 5102,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 5103,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "name": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 4301,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА"
+        },
+        {
+          "numero": 3703,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА"
+        },
+        {
+          "numero": 5203,
+          "date_from": "14.04.2026",
+          "date_to": "15.04.2026",
+          "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        },
+        {
+          "numero": 4803,
+          "date_from": "16.04.2026",
+          "date_to": "19.04.2026",
+          "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 212,
+      "name": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2201,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2202,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2203,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2204,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2205,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 121,
+      "name": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3701,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3702,
+          "date_from": "06.04.2026",
+          "date_to": "07.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3704,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3705,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4805,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 3703,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "ЗОЯ ТОДОРОВА ТОДОРОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5201,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5202,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 4803,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 5203,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 5204,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 5205,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "ИВА ИВАНОВА ДАНЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3901,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 9200,
+          "employee": "Не е разпределен"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4901,
+          "date_from": "02.04.2026",
+          "date_to": "07.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4902,
+          "date_from": "08.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4903,
+          "date_from": "15.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4904,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4905,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 169,
+      "name": "ИРИНА СТЕФАНОВА БАНКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5901,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5902,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5903,
+          "date_from": "09.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4303,
+          "date_from": "15.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5904,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5905,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 204,
+      "name": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4103,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2601,
+          "date_from": "07.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2602,
+          "date_from": "09.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2603,
+          "date_from": "15.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2604,
+          "date_from": "17.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2605,
+          "date_from": "23.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 82,
+      "name": "ЙОАНА МИЛЧЕВА МАТЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4501,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5121,
+          "date_from": "06.04.2026",
+          "date_to": "07.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5122,
+          "date_from": "08.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5123,
+          "date_from": "15.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5124,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5125,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 74,
+      "name": "МАРИАНА ИВАНОВА НЕНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3301,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3902,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3302,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3303,
+          "date_from": "17.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3304,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3305,
+          "date_from": "24.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 200,
+      "name": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 5111,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА"
+        },
+        {
+          "numero": 5112,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА"
+        },
+        {
+          "numero": 5113,
+          "date_from": "14.04.2026",
+          "date_to": "19.04.2026",
+          "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА"
+        },
+        {
+          "numero": 5114,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА"
+        },
+        {
+          "numero": 5115,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА"
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 144,
+      "name": "МАРИЯНА РАДЕВА ИЛИЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2401,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2402,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2403,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2404,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2405,
+          "date_from": "22.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3905,
+          "date_from": "24.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 109,
+      "name": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5161,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5162,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5163,
+          "date_from": "09.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5164,
+          "date_from": "16.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5165,
+          "date_from": "20.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4505,
+          "date_from": "22.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 147,
+      "name": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4401,
+          "date_from": "02.04.2026",
+          "date_to": "05.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4402,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4403,
+          "date_from": "09.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4404,
+          "date_from": "15.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4305,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4405,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 9,
+      "name": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2801,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2802,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2803,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2804,
+          "date_from": "17.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4504,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2805,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 1,
+      "name": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3401,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3402,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3403,
+          "date_from": "14.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3903,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3404,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3405,
+          "date_from": "23.04.2026",
+          "date_to": "27.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 111,
+      "name": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2101,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2102,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2103,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2104,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2105,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 217,
+      "name": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 5101,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА"
+        },
+        {
+          "numero": 5102,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА"
+        },
+        {
+          "numero": 5103,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА"
+        },
+        {
+          "numero": 5204,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        },
+        {
+          "numero": 5205,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 44,
+      "name": "ПЕТЯ ПЕТРОВА НИКОЛОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4601,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4602,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4603,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4604,
+          "date_from": "17.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4605,
+          "date_from": "24.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 116,
+      "name": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4101,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5131,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5132,
+          "date_from": "10.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5133,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5134,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5135,
+          "date_from": "23.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 99,
+      "name": "СВЕТЛА ДИМОВА ПЕТКОВА",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 4302,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА"
+        },
+        {
+          "numero": 5805,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА"
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 40,
+      "name": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 3601,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3602,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3603,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3604,
+          "date_from": "23.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3605,
+          "date_from": "27.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": [
+        {
+          "numero": 4302,
+          "employee": "СВЕТЛА ДИМОВА ПЕТКОВА"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4801,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3201,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3202,
+          "date_from": "14.04.2026",
+          "date_to": "15.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3203,
+          "date_from": "16.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3204,
+          "date_from": "21.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3205,
+          "date_from": "23.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 87,
+      "name": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5141,
+          "date_from": "06.04.2026",
+          "date_to": "08.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5142,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5143,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5144,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5145,
+          "date_from": "27.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 90,
+      "name": "ТАТЯНА СЪБКОВА САВОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 2501,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2502,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2503,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2504,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2505,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 42,
+      "name": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 4701,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4702,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4703,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4704,
+          "date_from": "17.04.2026",
+          "date_to": "20.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4304,
+          "date_from": "21.04.2026",
+          "date_to": "23.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4705,
+          "date_from": "24.04.2026",
+          "date_to": "28.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 86,
+      "name": "ХРИСТО КИРОВ ДИМИТРОВ",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 7101,
+          "date_from": "02.04.2026",
+          "date_to": "07.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 7102,
+          "date_from": "08.04.2026",
+          "date_to": "14.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 7103,
+          "date_from": "15.04.2026",
+          "date_to": "19.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 7104,
+          "date_from": "20.04.2026",
+          "date_to": "22.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 33,
+      "name": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
+      "type": "Инкасатор",
+      "schedule": [
+        {
+          "numero": 5701,
+          "date_from": "02.04.2026",
+          "date_to": "06.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5702,
+          "date_from": "07.04.2026",
+          "date_to": "13.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5703,
+          "date_from": "14.04.2026",
+          "date_to": "16.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5704,
+          "date_from": "17.04.2026",
+          "date_to": "21.04.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5705,
+          "date_from": "22.04.2026",
+          "date_to": "26.04.2026",
+          "titular": ""
+        }
+      ],
+      "removed_carnets": []
     }
   ]
 }
