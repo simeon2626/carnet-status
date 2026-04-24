@@ -161,10 +161,125 @@
       color: #555;
     }
 
+    /* ── Schedule section ────────────────────────────────── */
+    .schedule-section {
+      padding: 24px 16px 40px;
+      max-width: 900px;
+    }
+    .schedule-section h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #1a3a5c;
+      margin-bottom: 14px;
+      letter-spacing: 0.02em;
+    }
+    .emp-select-wrap {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+    .emp-select-wrap label {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #444;
+      white-space: nowrap;
+    }
+    #emp-select {
+      flex: 1;
+      max-width: 380px;
+      padding: 8px 12px;
+      border: 1px solid #c0cfe0;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      background: #fff;
+      color: #222;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    #emp-select:focus {
+      border-color: #1a3a5c;
+      box-shadow: 0 0 0 3px rgba(26,58,92,.12);
+    }
+
+    /* Removed-carnets notice */
+    #removed-carnets-box {
+      display: none;
+      background: #fff8e1;
+      border-left: 4px solid #f5a623;
+      border-radius: 6px;
+      padding: 10px 14px;
+      margin-bottom: 14px;
+      font-size: 0.82rem;
+      color: #555;
+      line-height: 1.7;
+    }
+    #removed-carnets-box strong {
+      color: #333;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    /* Schedule table */
+    .sched-table-wrap {
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0,0,0,.09);
+    }
+    #sched-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      font-size: 0.9rem;
+    }
+    #sched-table thead tr {
+      background: #1a3a5c;
+      color: #fff;
+    }
+    #sched-table thead th {
+      padding: 10px 14px;
+      text-align: center;
+      font-weight: 600;
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    #sched-table thead th:first-child { text-align: center; }
+    #sched-table tbody tr {
+      border-bottom: 1px solid #eef0f3;
+      transition: background 0.12s;
+    }
+    #sched-table tbody tr:last-child { border-bottom: none; }
+    #sched-table tbody tr:hover { background: #f0f6ff; cursor: default; }
+    #sched-table td {
+      padding: 9px 14px;
+      text-align: center;
+      color: #333;
+    }
+    #sched-table td:first-child {
+      font-weight: 700;
+      font-size: 1rem;
+      color: #1a3a5c;
+    }
+    #sched-table td.titular-cell {
+      font-style: italic;
+      color: #777;
+      font-size: 0.82rem;
+    }
+    #sched-table td.date-cell { color: #555; }
+    #sched-empty {
+      text-align: center;
+      color: #aaa;
+      padding: 24px;
+      font-size: 0.9rem;
+    }
+
     /* ── Responsive ───────────────────────────────────────── */
     @media (max-width: 540px) {
       .carnet-number { font-size: 0.88rem; }
       .carnet-person  { display: none; }
+      #emp-select { max-width: 100%; }
     }
   </style>
 </head>
@@ -209,6 +324,29 @@
   <div class="carnet-grid" id="carnet-grid"></div>
 </div>
 
+<!-- Schedule section -->
+<div class="schedule-section" id="schedule-section" style="display:none;">
+  <h2>График по служител</h2>
+  <div class="emp-select-wrap">
+    <label for="emp-select">Служител:</label>
+    <select id="emp-select"><option value="">— изберете —</option></select>
+  </div>
+  <div id="removed-carnets-box"></div>
+  <div class="sched-table-wrap">
+    <table id="sched-table">
+      <thead>
+        <tr>
+          <th>Карнет</th>
+          <th>От дата</th>
+          <th>До дата</th>
+          <th>Титуляр</th>
+        </tr>
+      </thead>
+      <tbody id="sched-tbody"></tbody>
+    </table>
+  </div>
+</div>
+
 <script>
   /* ── Column label map ─────────────────────────────────── */
   const COL_LABELS = ['…1 / …6', '…2 / …7', '…3 / …8', '…4 / …9', '…5 / …0'];
@@ -240,6 +378,9 @@
         'Грешка при зареждане на данните: ' + err.message;
     }
   }
+
+  /* ── Employees data store ────────────────────────────── */
+  let _employees = [];
 
   /* ── Render ───────────────────────────────────────────── */
   function renderGrid(data) {
@@ -302,6 +443,107 @@
     }
 
     document.getElementById('grid-wrapper').style.display = 'block';
+
+    // Populate employee dropdown
+    _employees = data.employees || [];
+    renderEmployeeDropdown(_employees);
+  }
+
+  /* ── Employee dropdown ────────────────────────────────── */
+  function renderEmployeeDropdown(employees) {
+    const sel = document.getElementById('emp-select');
+    const prev = sel.value;
+    sel.innerHTML = '<option value="">— изберете —</option>';
+
+    employees.forEach((emp, idx) => {
+      const opt = document.createElement('option');
+      opt.value = idx;
+      opt.textContent = emp.name + (emp.type ? ' (' + emp.type + ')' : '');
+      sel.appendChild(opt);
+    });
+
+    // Restore previous selection if still valid
+    if (prev !== '' && sel.options[parseInt(prev) + 1]) {
+      sel.value = prev;
+    }
+
+    const section = document.getElementById('schedule-section');
+    section.style.display = employees.length ? 'block' : 'none';
+
+    renderScheduleTable();
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('emp-select').addEventListener('change', renderScheduleTable);
+  });
+  // Also attach immediately in case DOMContentLoaded already fired
+  const _selEl = document.getElementById('emp-select');
+  if (_selEl) _selEl.addEventListener('change', renderScheduleTable);
+
+  /* ── Schedule table ───────────────────────────────────── */
+  function renderScheduleTable() {
+    const sel   = document.getElementById('emp-select');
+    const tbody = document.getElementById('sched-tbody');
+    const rcBox = document.getElementById('removed-carnets-box');
+
+    tbody.innerHTML = '';
+    rcBox.style.display = 'none';
+    rcBox.innerHTML = '';
+
+    const idx = sel.value;
+    if (idx === '' || !_employees[idx]) return;
+
+    const emp = _employees[idx];
+
+    // Removed-carnets tooltip box
+    if (emp.removed_carnets && emp.removed_carnets.length > 0) {
+      let html = '<strong>Премахнати карнети от графика на титуляра:</strong>';
+      emp.removed_carnets.forEach(rc => {
+        html += rc.numero + ': ' + rc.employee + '<br>';
+      });
+      rcBox.innerHTML = html;
+      rcBox.style.display = 'block';
+    }
+
+    // Table rows
+    if (!emp.schedule || emp.schedule.length === 0) {
+      tbody.innerHTML = '<tr><td colspan="4" id="sched-empty">Няма данни за графика</td></tr>';
+      return;
+    }
+
+    emp.schedule.forEach(row => {
+      const tr = document.createElement('tr');
+
+      // Tooltip for this row
+      const tipParts = [
+        'Карнет: '    + row.numero,
+        'От дата: '   + (row.date_from || '—'),
+        'До дата: '   + (row.date_to   || '—'),
+      ];
+      if (row.titular) tipParts.push('Титуляр: ' + row.titular);
+      tr.setAttribute('data-tooltip', tipParts.join('\n'));
+
+      const tdNum = document.createElement('td');
+      tdNum.textContent = row.numero;
+      tr.appendChild(tdNum);
+
+      const tdFrom = document.createElement('td');
+      tdFrom.className = 'date-cell';
+      tdFrom.textContent = row.date_from || '—';
+      tr.appendChild(tdFrom);
+
+      const tdTo = document.createElement('td');
+      tdTo.className = 'date-cell';
+      tdTo.textContent = row.date_to || '—';
+      tr.appendChild(tdTo);
+
+      const tdTit = document.createElement('td');
+      tdTit.className = 'titular-cell';
+      tdTit.textContent = row.titular || '';
+      tr.appendChild(tdTit);
+
+      tbody.appendChild(tr);
+    });
   }
 
   /* ── Tooltip logic ────────────────────────────────────── */
