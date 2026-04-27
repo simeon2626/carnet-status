@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.04.2026 08:07",
+  "updated_at": "27.04.2026 08:26",
   "today": "27.04.2026",
   "carnets": [
     {
@@ -41,7 +41,7 @@
     {
       "numero": 2105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "date_from": "22.04.2026",
@@ -86,7 +86,7 @@
     {
       "numero": 2205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "22.04.2026",
@@ -176,7 +176,7 @@
     {
       "numero": 2505,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
       "date_from": "22.04.2026",
@@ -221,7 +221,7 @@
     {
       "numero": 2605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "date_from": "23.04.2026",
@@ -266,7 +266,7 @@
     {
       "numero": 2705,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "date_from": "21.04.2026",
@@ -311,11 +311,11 @@
     {
       "numero": 2805,
       "column": 4,
-      "status": "expected",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "23.04.2026",
-      "date_to": "24.04.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "27.04.2026",
+      "date_to": "29.04.2026"
     },
     {
       "numero": 3101,
@@ -401,7 +401,7 @@
     {
       "numero": 3205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "23.04.2026",
@@ -527,7 +527,7 @@
     {
       "numero": 3604,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "23.04.2026",
@@ -761,7 +761,7 @@
     {
       "numero": 4205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "date_from": "23.04.2026",
@@ -1022,7 +1022,7 @@
     {
       "numero": 4805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "22.04.2026",
@@ -1382,7 +1382,7 @@
     {
       "numero": 5205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "22.04.2026",
@@ -1607,7 +1607,7 @@
     {
       "numero": 5705,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "date_from": "22.04.2026",
@@ -1652,7 +1652,7 @@
     {
       "numero": 5805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "incasator": "СВЕТЛА ДИМОВА ПЕТКОВА",
       "date_from": "22.04.2026",
@@ -2216,6 +2216,12 @@
           "date_from": "16.04.2026",
           "date_to": "19.04.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        },
+        {
+          "numero": 2805,
+          "date_from": "27.04.2026",
+          "date_to": "29.04.2026",
+          "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА"
         }
       ],
       "removed_carnets": []
@@ -2775,15 +2781,14 @@
           "date_from": "21.04.2026",
           "date_to": "22.04.2026",
           "titular": ""
-        },
-        {
-          "numero": 2805,
-          "date_from": "23.04.2026",
-          "date_to": "24.04.2026",
-          "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 2805,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        }
+      ]
     },
     {
       "id": 1,
