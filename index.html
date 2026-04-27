@@ -348,6 +348,14 @@
 </div>
 
 <script>
+  /* ── Custom layout overrides ──────────────────────────── */
+  // Карнети, които НЕ се показват в решетката
+  const EXCLUDED_CARNETS = new Set([9100, 9200, 9600]);
+  // Празни слотове: { колона (0-base): [карнет преди който се вмъква празнина] }
+  const EMPTY_BEFORE = {
+    2: [4603],   // колона …3/…8 → празна позиция преди 4603
+  };
+
   /* ── Column label map ─────────────────────────────────── */
   const COL_LABELS = ['…1 / …6', '…2 / …7', '…3 / …8', '…4 / …9', '…5 / …0'];
 
@@ -391,12 +399,22 @@
     // Build column buckets  [col0..col4]
     const cols = [[], [], [], [], []];
     (data.carnets || []).forEach(c => {
+      if (EXCLUDED_CARNETS.has(c.numero)) return;   // skip excluded
       const col = (c.column >= 0 && c.column <= 4) ? c.column : 0;
       cols[col].push(c);
     });
 
     // Sort each column numerically
     cols.forEach(col => col.sort((a, b) => a.numero - b.numero));
+
+    // Insert empty placeholders (null = empty visual slot)
+    Object.entries(EMPTY_BEFORE).forEach(([colIdx, beforeList]) => {
+      const col = cols[parseInt(colIdx)];
+      beforeList.forEach(targetNumero => {
+        const pos = col.findIndex(c => c && c.numero === targetNumero);
+        if (pos !== -1) col.splice(pos, 0, null);
+      });
+    });
 
     const maxRows = Math.max(...cols.map(c => c.length));
 
