@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.04.2026 08:06",
+  "updated_at": "28.04.2026 08:13",
   "today": "28.04.2026",
   "carnets": [
     {
@@ -356,7 +356,7 @@
     {
       "numero": 3105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "24.04.2026",
@@ -446,7 +446,7 @@
     {
       "numero": 3305,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
       "date_from": "24.04.2026",
@@ -491,7 +491,7 @@
     {
       "numero": 3405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "23.04.2026",
@@ -716,7 +716,7 @@
     {
       "numero": 4105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "23.04.2026",
@@ -851,7 +851,7 @@
     {
       "numero": 4405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "23.04.2026",
@@ -1067,7 +1067,7 @@
     {
       "numero": 4905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "23.04.2026",
@@ -1157,7 +1157,7 @@
     {
       "numero": 5115,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "23.04.2026",
@@ -1202,7 +1202,7 @@
     {
       "numero": 5125,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "23.04.2026",
@@ -1427,7 +1427,7 @@
     {
       "numero": 5305,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "24.04.2026",
@@ -1472,7 +1472,7 @@
     {
       "numero": 5405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "23.04.2026",
@@ -1517,7 +1517,7 @@
     {
       "numero": 5505,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "23.04.2026",
@@ -1697,7 +1697,7 @@
     {
       "numero": 5905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "23.04.2026",
