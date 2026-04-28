@@ -524,10 +524,12 @@
     }
 
     // Table rows
+    const tableWrap = document.querySelector('.sched-table-wrap');
     if (!emp.schedule || emp.schedule.length === 0) {
-      tbody.innerHTML = '<tr><td colspan="4" id="sched-empty">Няма данни за графика</td></tr>';
+      tableWrap.style.display = 'none';
       return;
     }
+    tableWrap.style.display = '';
 
     emp.schedule.forEach(row => {
       const tr = document.createElement('tr');
