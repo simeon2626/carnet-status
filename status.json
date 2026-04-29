@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.04.2026 08:10",
+  "updated_at": "29.04.2026 08:18",
   "today": "29.04.2026",
   "carnets": [
     {
@@ -311,7 +311,7 @@
     {
       "numero": 2805,
       "column": 4,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
       "date_from": "27.04.2026",
@@ -536,7 +536,7 @@
     {
       "numero": 3605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "27.04.2026",
@@ -671,7 +671,7 @@
     {
       "numero": 3905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "date_from": "24.04.2026",
@@ -932,7 +932,7 @@
     {
       "numero": 4605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА",
       "incasator": "ПЕТЯ ПЕТРОВА НИКОЛОВА",
       "date_from": "24.04.2026",
@@ -977,7 +977,7 @@
     {
       "numero": 4705,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "date_from": "24.04.2026",
@@ -1247,7 +1247,7 @@
     {
       "numero": 5135,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "23.04.2026",
@@ -1292,7 +1292,7 @@
     {
       "numero": 5145,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "27.04.2026",
@@ -1562,7 +1562,7 @@
     {
       "numero": 5605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "date_from": "24.04.2026",
