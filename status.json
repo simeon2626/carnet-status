@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.05.2026 08:40",
+  "updated_at": "07.05.2026 09:01",
   "today": "07.05.2026",
   "carnets": [
     {
@@ -635,7 +635,7 @@
     {
       "numero": 3901,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИВА ИВАНОВА ДАНЕВА",
       "incasator": "ИВА ИВАНОВА ДАНЕВА",
       "date_from": "04.05.2026",
