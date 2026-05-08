@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.05.2026 15:47",
+  "updated_at": "08.05.2026 15:52",
   "today": "08.05.2026",
   "carnets": [
     {
@@ -241,9 +241,9 @@
       "column": 1,
       "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "07.05.2026",
-      "date_to": "11.05.2026"
+      "incasator": "ИВА ИВАНОВА ДАНЕВА",
+      "date_from": "11.05.2026",
+      "date_to": "13.05.2026"
     },
     {
       "numero": 2703,
@@ -1988,12 +1988,6 @@
           "titular": ""
         },
         {
-          "numero": 2702,
-          "date_from": "07.05.2026",
-          "date_to": "11.05.2026",
-          "titular": ""
-        },
-        {
           "numero": 2703,
           "date_from": "12.05.2026",
           "date_to": "14.05.2026",
@@ -2012,7 +2006,12 @@
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 2702,
+          "employee": "ИВА ИВАНОВА ДАНЕВА"
+        }
+      ]
     },
     {
       "id": 208,
@@ -2374,6 +2373,12 @@
           "date_from": "04.05.2026",
           "date_to": "06.05.2026",
           "titular": ""
+        },
+        {
+          "numero": 2702,
+          "date_from": "11.05.2026",
+          "date_to": "13.05.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
         }
       ],
       "removed_carnets": [
