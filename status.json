@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.05.2026 08:41",
+  "updated_at": "13.05.2026 10:53",
   "today": "13.05.2026",
   "carnets": [
     {
@@ -248,29 +248,29 @@
     {
       "numero": 2703,
       "column": 2,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "12.05.2026",
-      "date_to": "14.05.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2704,
       "column": 3,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "15.05.2026",
-      "date_to": "19.05.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2705,
       "column": 4,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "20.05.2026",
-      "date_to": "25.05.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2801,
@@ -1986,30 +1986,24 @@
           "date_from": "04.05.2026",
           "date_to": "06.05.2026",
           "titular": ""
-        },
-        {
-          "numero": 2703,
-          "date_from": "12.05.2026",
-          "date_to": "14.05.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2704,
-          "date_from": "15.05.2026",
-          "date_to": "19.05.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2705,
-          "date_from": "20.05.2026",
-          "date_to": "25.05.2026",
-          "titular": ""
         }
       ],
       "removed_carnets": [
         {
           "numero": 2702,
           "employee": "ИВА ИВАНОВА ДАНЕВА"
+        },
+        {
+          "numero": 2703,
+          "employee": "Не е разпределен"
+        },
+        {
+          "numero": 2704,
+          "employee": "Не е разпределен"
+        },
+        {
+          "numero": 2705,
+          "employee": "Не е разпределен"
         }
       ]
     },
