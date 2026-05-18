@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.05.2026 08:28",
+  "updated_at": "18.05.2026 08:31",
   "today": "18.05.2026",
   "carnets": [
     {
@@ -1364,7 +1364,7 @@
     {
       "numero": 5203,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "13.05.2026",
