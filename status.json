@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.05.2026 08:07",
+  "updated_at": "27.05.2026 08:11",
   "today": "27.05.2026",
   "carnets": [
     {
@@ -41,7 +41,7 @@
     {
       "numero": 2105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "date_from": "21.05.2026",
@@ -86,7 +86,7 @@
     {
       "numero": 2205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "21.05.2026",
@@ -176,7 +176,7 @@
     {
       "numero": 2505,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
       "date_from": "21.05.2026",
@@ -446,7 +446,7 @@
     {
       "numero": 3305,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
       "date_from": "22.05.2026",
@@ -491,7 +491,7 @@
     {
       "numero": 3405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "21.05.2026",
@@ -716,7 +716,7 @@
     {
       "numero": 4105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "21.05.2026",
@@ -878,7 +878,7 @@
     {
       "numero": 4504,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "20.05.2026",
@@ -1022,7 +1022,7 @@
     {
       "numero": 4805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "21.05.2026",
@@ -1157,7 +1157,7 @@
     {
       "numero": 5115,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "21.05.2026",
@@ -1202,7 +1202,7 @@
     {
       "numero": 5125,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "21.05.2026",
