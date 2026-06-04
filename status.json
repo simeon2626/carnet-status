@@ -1,6 +1,6 @@
 {
-  "updated_at": "02.06.2026 16:45",
-  "today": "02.06.2026",
+  "updated_at": "04.06.2026 08:16",
+  "today": "04.06.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -815,7 +815,7 @@
     {
       "numero": 4401,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "02.06.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "03.06.2026",
@@ -1481,7 +1481,7 @@
     {
       "numero": 5501,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "02.06.2026",
