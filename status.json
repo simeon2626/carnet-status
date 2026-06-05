@@ -1,6 +1,6 @@
 {
-  "updated_at": "04.06.2026 08:16",
-  "today": "04.06.2026",
+  "updated_at": "05.06.2026 08:27",
+  "today": "05.06.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -50,7 +50,7 @@
     {
       "numero": 2201,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "02.06.2026",
@@ -635,7 +635,7 @@
     {
       "numero": 3901,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ИВА ИВАНОВА ДАНЕВА",
       "incasator": "ИВА ИВАНОВА ДАНЕВА",
       "date_from": "03.06.2026",
@@ -815,7 +815,7 @@
     {
       "numero": 4401,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "02.06.2026",
@@ -860,7 +860,7 @@
     {
       "numero": 4501,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "03.06.2026",
@@ -1256,7 +1256,7 @@
     {
       "numero": 5141,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "02.06.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "03.06.2026",
@@ -1481,7 +1481,7 @@
     {
       "numero": 5501,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "02.06.2026",
