@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.06.2026 11:41",
+  "updated_at": "10.06.2026 11:44",
   "today": "10.06.2026",
   "carnets": [
     {
@@ -293,29 +293,29 @@
     {
       "numero": 2803,
       "column": 2,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "11.06.2026",
-      "date_to": "15.06.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2804,
       "column": 3,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "18.06.2026",
-      "date_to": "22.06.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2805,
       "column": 4,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "23.06.2026",
-      "date_to": "25.06.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 3101,
@@ -878,11 +878,11 @@
     {
       "numero": 4504,
       "column": 3,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "16.06.2026",
-      "date_to": "17.06.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 4505,
@@ -2800,36 +2800,28 @@
           "date_from": "03.06.2026",
           "date_to": "07.06.2026",
           "titular": ""
-        },
-        {
-          "numero": 2803,
-          "date_from": "11.06.2026",
-          "date_to": "15.06.2026",
-          "titular": ""
-        },
-        {
-          "numero": 4504,
-          "date_from": "16.06.2026",
-          "date_to": "17.06.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2804,
-          "date_from": "18.06.2026",
-          "date_to": "22.06.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2805,
-          "date_from": "23.06.2026",
-          "date_to": "25.06.2026",
-          "titular": ""
         }
       ],
       "removed_carnets": [
         {
           "numero": 2802,
           "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 2803,
+          "employee": "Не е разпределен"
+        },
+        {
+          "numero": 2804,
+          "employee": "Не е разпределен"
+        },
+        {
+          "numero": 4504,
+          "employee": "Не е разпределен"
+        },
+        {
+          "numero": 2805,
+          "employee": "Не е разпределен"
         }
       ]
     },
