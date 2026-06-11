@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.06.2026 09:18",
+  "updated_at": "11.06.2026 09:22",
   "today": "11.06.2026",
   "carnets": [
     {
@@ -149,11 +149,11 @@
     {
       "numero": 2502,
       "column": 1,
-      "status": "expected",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "08.06.2026",
-      "date_to": "10.06.2026"
+      "date_from": "10.06.2026",
+      "date_to": "14.06.2026"
     },
     {
       "numero": 2503,
@@ -161,8 +161,8 @@
       "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "11.06.2026",
-      "date_to": "15.06.2026"
+      "date_from": "15.06.2026",
+      "date_to": "17.06.2026"
     },
     {
       "numero": 2504,
@@ -170,8 +170,8 @@
       "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "16.06.2026",
-      "date_to": "18.06.2026"
+      "date_from": "18.06.2026",
+      "date_to": "22.06.2026"
     },
     {
       "numero": 2505,
@@ -179,8 +179,8 @@
       "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "19.06.2026",
-      "date_to": "23.06.2026"
+      "date_from": "23.06.2026",
+      "date_to": "25.06.2026"
     },
     {
       "numero": 2601,
@@ -3199,26 +3199,26 @@
       "schedule": [
         {
           "numero": 2502,
-          "date_from": "08.06.2026",
-          "date_to": "10.06.2026",
+          "date_from": "10.06.2026",
+          "date_to": "14.06.2026",
           "titular": ""
         },
         {
           "numero": 2503,
-          "date_from": "11.06.2026",
-          "date_to": "15.06.2026",
+          "date_from": "15.06.2026",
+          "date_to": "17.06.2026",
           "titular": ""
         },
         {
           "numero": 2504,
-          "date_from": "16.06.2026",
-          "date_to": "18.06.2026",
+          "date_from": "18.06.2026",
+          "date_to": "22.06.2026",
           "titular": ""
         },
         {
           "numero": 2505,
-          "date_from": "19.06.2026",
-          "date_to": "23.06.2026",
+          "date_from": "23.06.2026",
+          "date_to": "25.06.2026",
           "titular": ""
         }
       ],
