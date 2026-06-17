@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.06.2026 08:10",
+  "updated_at": "17.06.2026 08:23",
   "today": "17.06.2026",
   "carnets": [
     {
@@ -248,7 +248,7 @@
     {
       "numero": 2703,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "date_from": "12.06.2026",
@@ -347,7 +347,7 @@
     {
       "numero": 3104,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "15.06.2026",
@@ -806,7 +806,7 @@
     {
       "numero": 4305,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "12.06.2026",
@@ -1049,7 +1049,7 @@
     {
       "numero": 4903,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "12.06.2026",
@@ -1499,7 +1499,7 @@
     {
       "numero": 5503,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "12.06.2026",
@@ -1724,7 +1724,7 @@
     {
       "numero": 7103,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "12.06.2026",
