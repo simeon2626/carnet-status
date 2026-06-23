@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.06.2026 08:05",
+  "updated_at": "23.06.2026 08:42",
   "today": "23.06.2026",
   "carnets": [
     {
@@ -797,7 +797,7 @@
     {
       "numero": 4304,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "date_from": "18.06.2026",
