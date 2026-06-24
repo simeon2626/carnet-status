@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.06.2026 09:33",
+  "updated_at": "24.06.2026 09:37",
   "today": "24.06.2026",
   "carnets": [
     {
@@ -878,7 +878,7 @@
     {
       "numero": 4504,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "22.06.2026",
