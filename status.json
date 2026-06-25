@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.06.2026 08:12",
+  "updated_at": "25.06.2026 09:08",
   "today": "25.06.2026",
   "carnets": [
     {
@@ -302,7 +302,7 @@
     {
       "numero": 2804,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "22.06.2026",
