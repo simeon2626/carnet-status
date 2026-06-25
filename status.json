@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.06.2026 08:10",
+  "updated_at": "25.06.2026 08:12",
   "today": "25.06.2026",
   "carnets": [
     {
@@ -761,7 +761,7 @@
     {
       "numero": 4205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "date_from": "22.06.2026",
@@ -1067,7 +1067,7 @@
     {
       "numero": 4905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "22.06.2026",
@@ -1283,7 +1283,7 @@
     {
       "numero": 5144,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "22.06.2026",
@@ -1382,7 +1382,7 @@
     {
       "numero": 5205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "22.06.2026",
@@ -1517,7 +1517,7 @@
     {
       "numero": 5505,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "22.06.2026",
