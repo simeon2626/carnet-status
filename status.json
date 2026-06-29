@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.06.2026 08:03",
+  "updated_at": "29.06.2026 08:29",
   "today": "29.06.2026",
   "carnets": [
     {
@@ -311,7 +311,7 @@
     {
       "numero": 2805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "24.06.2026",
@@ -671,7 +671,7 @@
     {
       "numero": 3905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "date_from": "24.06.2026",
@@ -932,7 +932,7 @@
     {
       "numero": 4605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА",
       "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
       "date_from": "25.06.2026",
@@ -1247,7 +1247,7 @@
     {
       "numero": 5135,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "23.06.2026",
@@ -1292,7 +1292,7 @@
     {
       "numero": 5145,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "25.06.2026",
