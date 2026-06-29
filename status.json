@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.06.2026 08:29",
+  "updated_at": "29.06.2026 08:44",
   "today": "29.06.2026",
   "carnets": [
     {
@@ -1553,7 +1553,7 @@
     {
       "numero": 5604,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "24.06.2026",
