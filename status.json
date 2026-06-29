@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.06.2026 08:44",
+  "updated_at": "29.06.2026 09:42",
   "today": "29.06.2026",
   "carnets": [
     {
@@ -536,7 +536,7 @@
     {
       "numero": 3605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "24.06.2026",
