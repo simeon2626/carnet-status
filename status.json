@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.07.2026 09:48",
+  "updated_at": "01.07.2026 09:49",
   "today": "01.07.2026",
   "carnets": [
     {
@@ -493,7 +493,7 @@
       "column": 4,
       "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
+      "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "28.07.2026",
       "date_to": "28.07.2026"
     },
@@ -1808,6 +1808,12 @@
           "date_from": "23.07.2026",
           "date_to": "27.07.2026",
           "titular": ""
+        },
+        {
+          "numero": 3405,
+          "date_from": "28.07.2026",
+          "date_to": "28.07.2026",
+          "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА"
         }
       ],
       "removed_carnets": []
@@ -2875,15 +2881,14 @@
           "date_from": "15.07.2026",
           "date_to": "19.07.2026",
           "titular": ""
-        },
-        {
-          "numero": 3405,
-          "date_from": "28.07.2026",
-          "date_to": "28.07.2026",
-          "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 3405,
+          "employee": "АКСИНИЯ ИЛИЕВА ЯНЕВА"
+        }
+      ]
     },
     {
       "id": 111,
