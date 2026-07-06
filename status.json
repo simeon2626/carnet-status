@@ -1,6 +1,6 @@
 {
-  "updated_at": "01.07.2026 09:49",
-  "today": "01.07.2026",
+  "updated_at": "06.07.2026 07:59",
+  "today": "06.07.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -455,7 +455,7 @@
     {
       "numero": 3401,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "02.07.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "02.07.2026",
