@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.07.2026 08:30",
+  "updated_at": "07.07.2026 08:53",
   "today": "07.07.2026",
   "carnets": [
     {
@@ -860,7 +860,7 @@
     {
       "numero": 4501,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "03.07.2026",
