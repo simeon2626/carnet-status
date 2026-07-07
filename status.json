@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.07.2026 08:02",
+  "updated_at": "07.07.2026 08:07",
   "today": "07.07.2026",
   "carnets": [
     {
@@ -275,7 +275,7 @@
     {
       "numero": 2801,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "02.07.2026",
@@ -410,7 +410,7 @@
     {
       "numero": 3301,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
       "date_from": "02.07.2026",
@@ -545,7 +545,7 @@
     {
       "numero": 3701,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "03.07.2026",
@@ -1121,7 +1121,7 @@
     {
       "numero": 5111,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "date_from": "02.07.2026",
@@ -1571,7 +1571,7 @@
     {
       "numero": 5701,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "date_from": "02.07.2026",
@@ -1661,7 +1661,7 @@
     {
       "numero": 5901,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "03.07.2026",
