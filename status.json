@@ -1,5 +1,5 @@
 {
-  "updated_at": "08.07.2026 08:12",
+  "updated_at": "08.07.2026 08:15",
   "today": "08.07.2026",
   "carnets": [
     {
@@ -1481,7 +1481,7 @@
     {
       "numero": 5501,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "06.07.2026",
