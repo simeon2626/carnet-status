@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.07.2026 08:04",
+  "updated_at": "14.07.2026 08:28",
   "today": "14.07.2026",
   "carnets": [
     {
@@ -1139,7 +1139,7 @@
     {
       "numero": 5113,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "date_from": "09.07.2026",
@@ -1328,7 +1328,7 @@
     {
       "numero": 5164,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "08.07.2026",
@@ -1445,7 +1445,7 @@
     {
       "numero": 5402,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "10.07.2026",
@@ -1715,7 +1715,7 @@
     {
       "numero": 7102,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "09.07.2026",
