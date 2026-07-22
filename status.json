@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.07.2026 08:02",
+  "updated_at": "22.07.2026 08:04",
   "today": "22.07.2026",
   "carnets": [
     {
@@ -392,7 +392,7 @@
     {
       "numero": 3204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "20.07.2026",
@@ -752,7 +752,7 @@
     {
       "numero": 4204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "date_from": "16.07.2026",
@@ -1733,7 +1733,7 @@
     {
       "numero": 7104,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "17.07.2026",
