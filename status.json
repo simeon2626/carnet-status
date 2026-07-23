@@ -1,6 +1,6 @@
 {
-  "updated_at": "22.07.2026 08:04",
-  "today": "22.07.2026",
+  "updated_at": "23.07.2026 08:08",
+  "today": "23.07.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -131,7 +131,7 @@
     {
       "numero": 2405,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "date_from": "21.07.2026",
@@ -167,20 +167,20 @@
     {
       "numero": 2504,
       "column": 3,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ТАТЯНА СЪБКОВА САВОВА",
+      "date_from": "23.07.2026",
+      "date_to": "27.07.2026"
     },
     {
       "numero": 2505,
       "column": 4,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ТАТЯНА СЪБКОВА САВОВА",
+      "date_from": "28.07.2026",
+      "date_to": "30.07.2026"
     },
     {
       "numero": 2601,
@@ -212,7 +212,7 @@
     {
       "numero": 2604,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "date_from": "20.07.2026",
@@ -392,7 +392,7 @@
     {
       "numero": 3204,
       "column": 3,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "20.07.2026",
@@ -527,7 +527,7 @@
     {
       "numero": 3604,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "21.07.2026",
@@ -581,7 +581,7 @@
     {
       "numero": 3705,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "20.07.2026",
@@ -626,7 +626,7 @@
     {
       "numero": 3805,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "20.07.2026",
@@ -662,7 +662,7 @@
     {
       "numero": 3904,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "20.07.2026",
@@ -707,7 +707,7 @@
     {
       "numero": 4104,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "21.07.2026",
@@ -752,7 +752,7 @@
     {
       "numero": 4204,
       "column": 3,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "date_from": "16.07.2026",
@@ -797,7 +797,7 @@
     {
       "numero": 4304,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "date_from": "20.07.2026",
@@ -806,7 +806,7 @@
     {
       "numero": 4305,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "20.07.2026",
@@ -1013,7 +1013,7 @@
     {
       "numero": 4804,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "date_from": "20.07.2026",
@@ -1193,7 +1193,7 @@
     {
       "numero": 5124,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "20.07.2026",
@@ -1238,7 +1238,7 @@
     {
       "numero": 5134,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "21.07.2026",
@@ -1337,7 +1337,7 @@
     {
       "numero": 5165,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "20.07.2026",
@@ -1373,7 +1373,7 @@
     {
       "numero": 5204,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "21.07.2026",
@@ -1409,7 +1409,7 @@
     {
       "numero": 5303,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "20.07.2026",
@@ -1607,7 +1607,7 @@
     {
       "numero": 5705,
       "column": 4,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "date_from": "20.07.2026",
@@ -1688,7 +1688,7 @@
     {
       "numero": 5904,
       "column": 3,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "20.07.2026",
@@ -1733,7 +1733,7 @@
     {
       "numero": 7104,
       "column": 3,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "17.07.2026",
@@ -3212,7 +3212,20 @@
       "id": 90,
       "name": "ТАТЯНА СЪБКОВА САВОВА",
       "type": "Инкасатор",
-      "schedule": [],
+      "schedule": [
+        {
+          "numero": 2504,
+          "date_from": "23.07.2026",
+          "date_to": "27.07.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2505,
+          "date_from": "28.07.2026",
+          "date_to": "30.07.2026",
+          "titular": ""
+        }
+      ],
       "removed_carnets": [
         {
           "numero": 2501,
@@ -3224,14 +3237,6 @@
         },
         {
           "numero": 2503,
-          "employee": "Не е разпределен"
-        },
-        {
-          "numero": 2504,
-          "employee": "Не е разпределен"
-        },
-        {
-          "numero": 2505,
           "employee": "Не е разпределен"
         }
       ]
