@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.07.2026 09:06",
+  "updated_at": "24.07.2026 10:23",
   "today": "24.07.2026",
   "carnets": [
     {
@@ -41,7 +41,7 @@
     {
       "numero": 2105,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "date_from": "21.07.2026",
@@ -311,7 +311,7 @@
     {
       "numero": 2805,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "21.07.2026",
