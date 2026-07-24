@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.07.2026 08:52",
+  "updated_at": "24.07.2026 09:06",
   "today": "24.07.2026",
   "carnets": [
     {
@@ -221,7 +221,7 @@
     {
       "numero": 2605,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "date_from": "23.07.2026",
@@ -401,7 +401,7 @@
     {
       "numero": 3205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "22.07.2026",
@@ -1067,7 +1067,7 @@
     {
       "numero": 4905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "date_from": "21.07.2026",
@@ -1103,7 +1103,7 @@
     {
       "numero": 5104,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "date_from": "21.07.2026",
@@ -1292,7 +1292,7 @@
     {
       "numero": 5145,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "21.07.2026",
