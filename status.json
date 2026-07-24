@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.07.2026 08:10",
+  "updated_at": "24.07.2026 08:45",
   "today": "24.07.2026",
   "carnets": [
     {
@@ -86,7 +86,7 @@
     {
       "numero": 2205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "21.07.2026",
@@ -1202,11 +1202,11 @@
     {
       "numero": 5125,
       "column": 4,
-      "status": "expected",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "date_from": "21.07.2026",
-      "date_to": "23.07.2026"
+      "date_from": "23.07.2026",
+      "date_to": "27.07.2026"
     },
     {
       "numero": 5131,
@@ -2573,8 +2573,8 @@
         },
         {
           "numero": 5125,
-          "date_from": "21.07.2026",
-          "date_to": "23.07.2026",
+          "date_from": "23.07.2026",
+          "date_to": "27.07.2026",
           "titular": ""
         }
       ],
