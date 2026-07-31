@@ -1,6 +1,6 @@
 {
-  "updated_at": "30.07.2026 08:16",
-  "today": "30.07.2026",
+  "updated_at": "31.07.2026 08:15",
+  "today": "31.07.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -176,7 +176,7 @@
     {
       "numero": 2505,
       "column": 4,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
       "date_from": "28.07.2026",
@@ -1427,7 +1427,7 @@
     {
       "numero": 5305,
       "column": 4,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "27.07.2026",
