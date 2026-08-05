@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.08.2026 08:11",
+  "updated_at": "05.08.2026 09:35",
   "today": "05.08.2026",
   "carnets": [
     {
@@ -95,11 +95,11 @@
     {
       "numero": 2401,
       "column": 0,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
-      "date_from": "04.08.2026",
-      "date_to": "06.08.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2402,
@@ -140,11 +140,11 @@
     {
       "numero": 2501,
       "column": 0,
-      "status": "upcoming",
+      "status": "no_schedule",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
-      "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "04.08.2026",
-      "date_to": "06.08.2026"
+      "incasator": "",
+      "date_from": "",
+      "date_to": ""
     },
     {
       "numero": 2502,
@@ -2608,12 +2608,6 @@
       "type": "Заместник",
       "schedule": [
         {
-          "numero": 2401,
-          "date_from": "04.08.2026",
-          "date_to": "06.08.2026",
-          "titular": "МАРИЯНА РАДЕВА ИЛИЕВА"
-        },
-        {
           "numero": 2703,
           "date_from": "12.08.2026",
           "date_to": "16.08.2026",
@@ -2661,7 +2655,7 @@
       "removed_carnets": [
         {
           "numero": 2401,
-          "employee": "МАРИЯН БЛАЖКОВ БЛАЖЕВ"
+          "employee": "Не е разпределен"
         },
         {
           "numero": 3905,
@@ -3180,12 +3174,6 @@
       "type": "Инкасатор",
       "schedule": [
         {
-          "numero": 2501,
-          "date_from": "04.08.2026",
-          "date_to": "06.08.2026",
-          "titular": ""
-        },
-        {
           "numero": 2502,
           "date_from": "07.08.2026",
           "date_to": "11.08.2026",
@@ -3210,7 +3198,12 @@
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 2501,
+          "employee": "Не е разпределен"
+        }
+      ]
     },
     {
       "id": 42,
