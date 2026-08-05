@@ -1,6 +1,6 @@
 {
-  "updated_at": "04.08.2026 15:04",
-  "today": "04.08.2026",
+  "updated_at": "05.08.2026 08:06",
+  "today": "05.08.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -860,7 +860,7 @@
     {
       "numero": 4501,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "03.08.2026",
@@ -1256,7 +1256,7 @@
     {
       "numero": 5141,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "03.08.2026",
@@ -1661,7 +1661,7 @@
     {
       "numero": 5901,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "03.08.2026",
