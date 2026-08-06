@@ -1,6 +1,6 @@
 {
-  "updated_at": "05.08.2026 09:35",
-  "today": "05.08.2026",
+  "updated_at": "06.08.2026 08:06",
+  "today": "06.08.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -230,7 +230,7 @@
     {
       "numero": 2701,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "date_from": "04.08.2026",
@@ -320,7 +320,7 @@
     {
       "numero": 3101,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "04.08.2026",
@@ -545,7 +545,7 @@
     {
       "numero": 3701,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "04.08.2026",
@@ -590,7 +590,7 @@
     {
       "numero": 3801,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "03.08.2026",
@@ -860,7 +860,7 @@
     {
       "numero": 4501,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "03.08.2026",
@@ -1256,7 +1256,7 @@
     {
       "numero": 5141,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "03.08.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "04.08.2026",
@@ -1661,7 +1661,7 @@
     {
       "numero": 5901,
       "column": 0,
-      "status": "expected",
+      "status": "completed_prev",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "03.08.2026",
