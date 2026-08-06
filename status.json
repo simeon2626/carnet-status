@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.08.2026 08:06",
+  "updated_at": "06.08.2026 08:14",
   "today": "06.08.2026",
   "carnets": [
     {
@@ -230,7 +230,7 @@
     {
       "numero": 2701,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "date_from": "04.08.2026",
@@ -320,7 +320,7 @@
     {
       "numero": 3101,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "date_from": "04.08.2026",
@@ -545,7 +545,7 @@
     {
       "numero": 3701,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "04.08.2026",
@@ -590,7 +590,7 @@
     {
       "numero": 3801,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "03.08.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "04.08.2026",
