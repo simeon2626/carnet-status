@@ -1,5 +1,5 @@
 {
-  "updated_at": "10.08.2026 09:51",
+  "updated_at": "10.08.2026 11:48",
   "today": "10.08.2026",
   "carnets": [
     {
@@ -1265,7 +1265,7 @@
     {
       "numero": 5142,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "date_from": "05.08.2026",
