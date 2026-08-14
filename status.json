@@ -1,6 +1,6 @@
 {
-  "updated_at": "13.08.2026 08:12",
-  "today": "13.08.2026",
+  "updated_at": "14.08.2026 08:19",
+  "today": "14.08.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -149,7 +149,7 @@
     {
       "numero": 2502,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
       "date_from": "11.08.2026",
@@ -293,7 +293,7 @@
     {
       "numero": 2803,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "12.08.2026",
@@ -464,7 +464,7 @@
     {
       "numero": 3402,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "10.08.2026",
@@ -563,7 +563,7 @@
     {
       "numero": 3703,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "11.08.2026",
@@ -608,7 +608,7 @@
     {
       "numero": 3803,
       "column": 2,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "10.08.2026",
@@ -779,7 +779,7 @@
     {
       "numero": 4302,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
       "date_from": "10.08.2026",
@@ -833,7 +833,7 @@
     {
       "numero": 4403,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "incasator": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
       "date_from": "12.08.2026",
@@ -869,7 +869,7 @@
     {
       "numero": 4502,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "10.08.2026",
@@ -1040,7 +1040,7 @@
     {
       "numero": 4902,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "10.08.2026",
@@ -1184,7 +1184,7 @@
     {
       "numero": 5123,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "12.08.2026",
@@ -1319,7 +1319,7 @@
     {
       "numero": 5163,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "11.08.2026",
@@ -1400,7 +1400,7 @@
     {
       "numero": 5302,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "10.08.2026",
@@ -1454,7 +1454,7 @@
     {
       "numero": 5403,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "11.08.2026",
@@ -1634,7 +1634,7 @@
     {
       "numero": 5803,
       "column": 2,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "date_from": "12.08.2026",
@@ -1715,7 +1715,7 @@
     {
       "numero": 7102,
       "column": 1,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "10.08.2026",
