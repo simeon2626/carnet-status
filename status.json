@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.08.2026 08:48",
+  "updated_at": "14.08.2026 13:06",
   "today": "14.08.2026",
   "carnets": [
     {
@@ -293,11 +293,11 @@
     {
       "numero": 2803,
       "column": 2,
-      "status": "expected",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "12.08.2026",
-      "date_to": "13.08.2026"
+      "date_to": "16.08.2026"
     },
     {
       "numero": 2804,
@@ -2800,7 +2800,7 @@
         {
           "numero": 2803,
           "date_from": "12.08.2026",
-          "date_to": "13.08.2026",
+          "date_to": "16.08.2026",
           "titular": ""
         },
         {
