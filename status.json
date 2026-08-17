@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.08.2026 08:20",
+  "updated_at": "17.08.2026 08:25",
   "today": "17.08.2026",
   "carnets": [
     {
@@ -1274,7 +1274,7 @@
     {
       "numero": 5143,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "12.08.2026",
