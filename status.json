@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.08.2026 08:58",
+  "updated_at": "17.08.2026 09:40",
   "today": "17.08.2026",
   "carnets": [
     {
@@ -248,18 +248,18 @@
     {
       "numero": 2703,
       "column": 2,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
+      "date_from": "18.08.2026",
+      "date_to": "20.08.2026"
     },
     {
       "numero": 2704,
       "column": 3,
       "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
+      "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "21.08.2026",
       "date_to": "25.08.2026"
     },
@@ -269,8 +269,8 @@
       "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "26.08.2026",
-      "date_to": "30.08.2026"
+      "date_from": "21.08.2026",
+      "date_to": "25.08.2026"
     },
     {
       "numero": 2801,
@@ -1004,11 +1004,11 @@
     {
       "numero": 4803,
       "column": 2,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
+      "date_from": "18.08.2026",
+      "date_to": "20.08.2026"
     },
     {
       "numero": 4804,
@@ -2002,22 +2002,22 @@
           "titular": ""
         },
         {
-          "numero": 2704,
-          "date_from": "21.08.2026",
-          "date_to": "25.08.2026",
+          "numero": 2703,
+          "date_from": "18.08.2026",
+          "date_to": "20.08.2026",
           "titular": ""
         },
         {
           "numero": 2705,
-          "date_from": "26.08.2026",
-          "date_to": "30.08.2026",
+          "date_from": "21.08.2026",
+          "date_to": "25.08.2026",
           "titular": ""
         }
       ],
       "removed_carnets": [
         {
-          "numero": 2703,
-          "employee": "Не е разпределен"
+          "numero": 2704,
+          "employee": "МАРИЯН БЛАЖКОВ БЛАЖЕВ"
         }
       ]
     },
@@ -2364,7 +2364,7 @@
       "removed_carnets": [
         {
           "numero": 4803,
-          "employee": "Не е разпределен"
+          "employee": "МАРИЯН БЛАЖКОВ БЛАЖЕВ"
         },
         {
           "numero": 5203,
@@ -2625,6 +2625,26 @@
           "date_from": "24.08.2026",
           "date_to": "26.08.2026",
           "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 200,
+      "name": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 4803,
+          "date_from": "18.08.2026",
+          "date_to": "20.08.2026",
+          "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
+        },
+        {
+          "numero": 2704,
+          "date_from": "21.08.2026",
+          "date_to": "25.08.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
         }
       ],
       "removed_carnets": []
