@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.08.2026 08:24",
+  "updated_at": "20.08.2026 08:28",
   "today": "20.08.2026",
   "carnets": [
     {
@@ -1544,7 +1544,7 @@
     {
       "numero": 5603,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "date_from": "17.08.2026",
