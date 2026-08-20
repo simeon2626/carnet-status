@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.08.2026 08:18",
+  "updated_at": "20.08.2026 08:24",
   "today": "20.08.2026",
   "carnets": [
     {
@@ -581,11 +581,11 @@
     {
       "numero": 3705,
       "column": 4,
-      "status": "expected",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "18.08.2026",
-      "date_to": "19.08.2026"
+      "date_to": "23.08.2026"
     },
     {
       "numero": 3801,
@@ -2331,7 +2331,7 @@
         {
           "numero": 3705,
           "date_from": "18.08.2026",
-          "date_to": "19.08.2026",
+          "date_to": "23.08.2026",
           "titular": ""
         },
         {
