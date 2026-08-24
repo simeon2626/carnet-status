@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.08.2026 08:20",
+  "updated_at": "24.08.2026 08:24",
   "today": "24.08.2026",
   "carnets": [
     {
@@ -671,7 +671,7 @@
     {
       "numero": 3905,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "17.08.2026",
