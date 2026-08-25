@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.08.2026 08:02",
+  "updated_at": "25.08.2026 08:04",
   "today": "25.08.2026",
   "carnets": [
     {
@@ -887,7 +887,7 @@
     {
       "numero": 4505,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "21.08.2026",
