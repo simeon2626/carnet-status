@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.08.2026 08:09",
+  "updated_at": "25.08.2026 08:19",
   "today": "25.08.2026",
   "carnets": [
     {
@@ -86,7 +86,7 @@
     {
       "numero": 2205,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "20.08.2026",
