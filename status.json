@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.08.2026 08:20",
+  "updated_at": "27.08.2026 15:11",
   "today": "27.08.2026",
   "carnets": [
     {
@@ -257,7 +257,7 @@
     {
       "numero": 2704,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "МАРИЯН БЛАЖКОВ БЛАЖЕВ",
       "date_from": "21.08.2026",
