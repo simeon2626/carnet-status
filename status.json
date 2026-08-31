@@ -1,6 +1,6 @@
 {
-  "updated_at": "28.08.2026 08:07",
-  "today": "28.08.2026",
+  "updated_at": "31.08.2026 08:01",
+  "today": "31.08.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -1247,7 +1247,7 @@
     {
       "numero": 5135,
       "column": 4,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "24.08.2026",
@@ -1517,7 +1517,7 @@
     {
       "numero": 5505,
       "column": 4,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "26.08.2026",
@@ -1562,7 +1562,7 @@
     {
       "numero": 5605,
       "column": 4,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "date_from": "25.08.2026",
