@@ -1,6 +1,6 @@
 {
-  "updated_at": "02.09.2026 08:38",
-  "today": "02.09.2026",
+  "updated_at": "03.09.2026 08:08",
+  "today": "03.09.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -230,7 +230,7 @@
     {
       "numero": 2701,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "date_from": "01.09.2026",
@@ -275,7 +275,7 @@
     {
       "numero": 2801,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "date_from": "01.09.2026",
@@ -500,7 +500,7 @@
     {
       "numero": 3601,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "date_from": "01.09.2026",
