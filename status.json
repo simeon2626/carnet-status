@@ -1,5 +1,5 @@
 {
-  "updated_at": "09.09.2026 08:00",
+  "updated_at": "09.09.2026 08:11",
   "today": "09.09.2026",
   "carnets": [
     {
@@ -1310,7 +1310,7 @@
     {
       "numero": 5162,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "04.09.2026",
