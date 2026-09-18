@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.09.2026 08:00",
+  "updated_at": "18.09.2026 08:05",
   "today": "18.09.2026",
   "carnets": [
     {
@@ -1463,7 +1463,7 @@
     {
       "numero": 5404,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "date_from": "15.09.2026",
