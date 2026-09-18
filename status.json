@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.09.2026 07:53",
+  "updated_at": "18.09.2026 08:00",
   "today": "18.09.2026",
   "carnets": [
     {
@@ -68,7 +68,7 @@
     {
       "numero": 2203,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "15.09.2026",
@@ -203,7 +203,7 @@
     {
       "numero": 2603,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "date_from": "16.09.2026",
@@ -392,7 +392,7 @@
     {
       "numero": 3204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "16.09.2026",
@@ -428,7 +428,7 @@
     {
       "numero": 3303,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
       "date_from": "16.09.2026",
@@ -473,7 +473,7 @@
     {
       "numero": 3403,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "16.09.2026",
@@ -572,7 +572,7 @@
     {
       "numero": 3704,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "15.09.2026",
@@ -617,7 +617,7 @@
     {
       "numero": 3804,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "date_from": "16.09.2026",
@@ -968,7 +968,7 @@
     {
       "numero": 4704,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "date_from": "16.09.2026",
@@ -1004,7 +1004,7 @@
     {
       "numero": 4803,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
       "date_from": "16.09.2026",
@@ -1229,7 +1229,7 @@
     {
       "numero": 5133,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "15.09.2026",
@@ -1499,7 +1499,7 @@
     {
       "numero": 5503,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "15.09.2026",
