@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.09.2026 08:29",
+  "updated_at": "24.09.2026 08:40",
   "today": "24.09.2026",
   "carnets": [
     {
@@ -923,7 +923,7 @@
     {
       "numero": 4604,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "date_from": "17.09.2026",
