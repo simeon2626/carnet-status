@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.09.2026 08:14",
+  "updated_at": "28.09.2026 10:25",
   "today": "28.09.2026",
   "carnets": [
     {
@@ -491,7 +491,7 @@
     {
       "numero": 3405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "date_from": "24.09.2026",
@@ -851,7 +851,7 @@
     {
       "numero": 4405,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "date_from": "23.09.2026",
