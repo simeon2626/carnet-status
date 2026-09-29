@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.09.2026 07:59",
+  "updated_at": "29.09.2026 08:03",
   "today": "29.09.2026",
   "carnets": [
     {
@@ -581,7 +581,7 @@
     {
       "numero": 3705,
       "column": 4,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
       "date_from": "24.09.2026",
