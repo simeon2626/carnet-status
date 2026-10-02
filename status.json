@@ -1,1743 +1,1743 @@
 {
-  "updated_at": "30.09.2026 10:22",
-  "today": "30.09.2026",
+  "updated_at": "02.10.2026 08:52",
+  "today": "02.10.2026",
   "carnets": [
     {
       "numero": 2101,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 2102,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 2103,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 2104,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 2105,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
       "incasator": "НИКОЛИНКА БОЖИНОВА ВЪЛЧЕВА",
-      "date_from": "21.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 2201,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 2202,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 2203,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "15.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 2204,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 2205,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 2401,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "06.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 2402,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 2403,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 2404,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 2405,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "21.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 2501,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 2502,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 2503,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 2504,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 2505,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ТАТЯНА СЪБКОВА САВОВА",
       "incasator": "ТАТЯНА СЪБКОВА САВОВА",
-      "date_from": "21.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 2601,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 2602,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 2603,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 2604,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "18.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 2605,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "25.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "26.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 2701,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "01.09.2026",
-      "date_to": "02.09.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 2702,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "03.09.2026",
-      "date_to": "08.09.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 2703,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 2704,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 2705,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "incasator": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "date_from": "21.09.2026",
-      "date_to": "24.09.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 2801,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "01.09.2026",
-      "date_to": "02.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 2802,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 2803,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 2804,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "21.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 2805,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 3101,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3102,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 3103,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "11.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 3104,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "15.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 3105,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 3201,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "08.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 3202,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "13.10.2026"
     },
     {
       "numero": 3203,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "14.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "14.10.2026",
+      "date_to": "18.10.2026"
     },
     {
       "numero": 3204,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "19.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 3205,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "18.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 3301,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3302,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 3303,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 3304,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 3305,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 3401,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3402,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 3403,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 3404,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 3405,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 3601,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "01.09.2026",
-      "date_to": "02.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3602,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "07.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 3603,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 3604,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "17.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 3605,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "20.09.2026",
-      "date_to": "22.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 3701,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 3702,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 3703,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 3704,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "15.09.2026",
-      "date_to": "17.09.2026"
+      "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 3705,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
+      "date_from": "20.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 3801,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3802,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 3803,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 3804,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 3805,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 3901,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИВА ИВАНОВА ДАНЕВА",
       "incasator": "ИВА ИВАНОВА ДАНЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 3902,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИАНА ИВАНОВА НЕНОВА",
       "incasator": "МАРИАНА ИВАНОВА НЕНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 3903,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
       "incasator": "НЕЛИ НАЧЕВА КАЛПАЗАНОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 3904,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
       "incasator": "АКСИНИЯ ИЛИЕВА ЯНЕВА",
-      "date_from": "17.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 3905,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МАРИЯНА РАДЕВА ИЛИЕВА",
       "incasator": "МАРИЯНА РАДЕВА ИЛИЕВА",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4101,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4102,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 4103,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
       "incasator": "ИСКРА КРАСИМИРОВА ДИМИТРОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4104,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "18.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 4105,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
       "incasator": "ВЕСЕЛКА АНГЕЛОВА ВЪЛЕВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4201,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4202,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 4203,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 4204,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "date_from": "16.09.2026",
-      "date_to": "22.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "21.10.2026"
     },
     {
       "numero": 4205,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
       "incasator": "ГАЛИНА БОЧЕВА ДИМИТРОВА",
-      "date_from": "23.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "22.10.2026",
+      "date_to": "26.10.2026"
     },
     {
       "numero": 4301,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4302,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "incasator": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 4303,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 4304,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 4305,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
-      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 4401,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4402,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
-      "date_from": "11.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 4403,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 4404,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 4405,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4501,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 4502,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 4504,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
       "incasator": "НАДЯ ХРИСТОФОРОВА МАНЕВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 4505,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4601,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4602,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 4603,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 4604,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "17.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 4605,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "РАДИНКА РОЗЕНОВА ИВАНОВА",
       "incasator": "РАДИНКА РОЗЕНОВА ИВАНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "26.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4701,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4702,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 4703,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 4704,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 4705,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
       "incasator": "ХРИСТИНКА СИМЕОНОВА ЦЕКОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "26.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4801,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 4802,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "07.09.2026",
-      "date_to": "09.09.2026"
+      "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 4803,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "16.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 4804,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "17.09.2026",
-      "date_to": "21.09.2026"
+      "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 4805,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
-      "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
-      "date_from": "21.09.2026",
-      "date_to": "23.09.2026"
+      "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
+      "date_from": "26.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 4901,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "08.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "08.10.2026"
     },
     {
       "numero": 4902,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
-      "date_from": "09.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "09.10.2026",
+      "date_to": "13.10.2026"
     },
     {
       "numero": 4903,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "14.10.2026",
+      "date_to": "18.10.2026"
     },
     {
       "numero": 4904,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
-      "date_from": "17.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "19.10.2026",
+      "date_to": "21.10.2026"
     },
     {
       "numero": 4905,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "22.10.2026",
+      "date_to": "26.10.2026"
     },
     {
       "numero": 5101,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5102,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5103,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "date_from": "17.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5104,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "date_from": "23.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5105,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
-      "date_from": "25.09.2026",
-      "date_to": "29.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5111,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5112,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5113,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5114,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5115,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
-      "date_from": "21.09.2026",
-      "date_to": "24.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 5121,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5122,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5123,
       "column": 2,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 5124,
       "column": 3,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5125,
       "column": 4,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5131,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "07.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5132,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5133,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "15.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5134,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "18.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5135,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
-      "date_from": "23.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "28.10.2026"
     },
     {
       "numero": 5141,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "incasator": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5142,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5143,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "16.09.2026",
-      "date_to": "20.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 5144,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "21.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5145,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
       "incasator": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5161,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 5162,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5163,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5164,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 5165,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
-      "date_from": "17.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5201,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5202,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5203,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "11.09.2026",
-      "date_to": "15.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5204,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 5205,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "26.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5301,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5302,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5303,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "date_from": "10.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 5304,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5305,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5401,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5402,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "08.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5403,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5404,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "15.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5405,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "БОРЯНА БОЙКОВА КЮЧУКОВА",
       "incasator": "БОРЯНА БОЙКОВА КЮЧУКОВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 5501,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 5502,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5503,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "15.09.2026",
-      "date_to": "17.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "18.10.2026"
     },
     {
       "numero": 5504,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5505,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
-      "date_from": "24.09.2026",
-      "date_to": "27.09.2026"
+      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5601,
       "column": 0,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5602,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5603,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "incasator": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5604,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "date_from": "18.09.2026",
-      "date_to": "22.09.2026"
+      "incasator": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "date_from": "16.10.2026",
+      "date_to": "20.10.2026"
     },
     {
       "numero": 5605,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
       "incasator": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "date_from": "26.10.2026",
+      "date_to": "28.10.2026"
     },
     {
       "numero": 5701,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 5702,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "04.09.2026",
-      "date_to": "08.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5703,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "09.09.2026",
-      "date_to": "13.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5704,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "14.09.2026",
-      "date_to": "16.09.2026"
+      "date_from": "15.10.2026",
+      "date_to": "19.10.2026"
     },
     {
       "numero": 5705,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
-      "date_from": "17.09.2026",
-      "date_to": "21.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5801,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "02.09.2026",
-      "date_to": "07.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "07.10.2026"
     },
     {
       "numero": 5802,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
       "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "08.09.2026",
-      "date_to": "10.09.2026"
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5803,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "11.09.2026",
-      "date_to": "14.09.2026"
+      "incasator": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "date_from": "08.10.2026",
+      "date_to": "12.10.2026"
     },
     {
       "numero": 5804,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "15.09.2026",
-      "date_to": "16.09.2026"
+      "incasator": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "date_from": "13.10.2026",
+      "date_to": "15.10.2026"
     },
     {
       "numero": 5805,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "incasator": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА",
-      "date_from": "23.09.2026",
-      "date_to": "27.09.2026"
+      "incasator": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "date_from": "21.10.2026",
+      "date_to": "25.10.2026"
     },
     {
       "numero": 5901,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "date_from": "02.09.2026",
-      "date_to": "03.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "06.10.2026"
     },
     {
       "numero": 5902,
       "column": 1,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "date_from": "04.09.2026",
-      "date_to": "09.09.2026"
+      "date_from": "07.10.2026",
+      "date_to": "11.10.2026"
     },
     {
       "numero": 5903,
       "column": 2,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "date_from": "10.09.2026",
-      "date_to": "14.09.2026"
+      "date_from": "12.10.2026",
+      "date_to": "14.10.2026"
     },
     {
       "numero": 5904,
       "column": 3,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "date_from": "18.09.2026",
-      "date_to": "23.09.2026"
+      "date_from": "20.10.2026",
+      "date_to": "22.10.2026"
     },
     {
       "numero": 5905,
       "column": 4,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
-      "date_from": "24.09.2026",
-      "date_to": "28.09.2026"
+      "date_from": "23.10.2026",
+      "date_to": "27.10.2026"
     },
     {
       "numero": 7101,
       "column": 0,
-      "status": "completed_prev",
+      "status": "upcoming",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
-      "date_from": "02.09.2026",
-      "date_to": "08.09.2026"
+      "date_from": "05.10.2026",
+      "date_to": "08.10.2026"
     },
     {
       "numero": 7102,
       "column": 1,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
+      "date_from": "09.10.2026",
+      "date_to": "13.10.2026"
     },
     {
       "numero": 7103,
       "column": 2,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
+      "date_from": "14.10.2026",
+      "date_to": "18.10.2026"
     },
     {
       "numero": 7104,
       "column": 3,
-      "status": "no_schedule",
+      "status": "upcoming",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
-      "incasator": "",
-      "date_from": "",
-      "date_to": ""
+      "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
+      "date_from": "19.10.2026",
+      "date_to": "21.10.2026"
     },
     {
       "numero": 9100,
@@ -1775,38 +1775,38 @@
       "schedule": [
         {
           "numero": 3101,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3102,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 3103,
-          "date_from": "11.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 3104,
-          "date_from": "15.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 3904,
-          "date_from": "17.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 3105,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -1819,38 +1819,38 @@
       "schedule": [
         {
           "numero": 5401,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 5402,
-          "date_from": "08.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 5403,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 5404,
-          "date_from": "15.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 4104,
-          "date_from": "18.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5405,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -1863,41 +1863,42 @@
       "schedule": [
         {
           "numero": 5301,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 5302,
-          "date_from": "08.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "11.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4802,
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 5303,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 5304,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5305,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": [
-        {
-          "numero": 4802,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
-        }
-      ]
+      "removed_carnets": []
     },
     {
       "id": 37,
@@ -1906,42 +1907,35 @@
       "schedule": [
         {
           "numero": 5801,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 5802,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 5803,
-          "date_from": "11.09.2026",
-          "date_to": "14.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 5804,
-          "date_from": "15.09.2026",
-          "date_to": "16.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 4804,
-          "date_from": "17.09.2026",
-          "date_to": "21.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 5805,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 5803,
+          "employee": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА"
+        },
+        {
+          "numero": 4804,
+          "employee": "НИНА ПЕТЬОВА ЙОТОВА"
+        },
+        {
+          "numero": 5804,
+          "employee": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА"
+        },
+        {
+          "numero": 5805,
+          "employee": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА"
+        }
+      ]
     },
     {
       "id": 140,
@@ -1950,76 +1944,64 @@
       "schedule": [
         {
           "numero": 5501,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 4502,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5502,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 5503,
-          "date_from": "15.09.2026",
-          "date_to": "17.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 5504,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 5505,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
-          "titular": ""
-        }
-      ],
-      "removed_carnets": []
-    },
-    {
-      "id": 131,
-      "name": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
-      "type": "Инкасатор",
-      "schedule": [
-        {
-          "numero": 2701,
-          "date_from": "01.09.2026",
-          "date_to": "02.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2702,
-          "date_from": "03.09.2026",
-          "date_to": "08.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2704,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2705,
-          "date_from": "21.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "18.10.2026",
           "titular": ""
         }
       ],
       "removed_carnets": [
         {
+          "numero": 5504,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 5505,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
+      "type": "Инкасатор",
+      "schedule": [],
+      "removed_carnets": [
+        {
+          "numero": 2701,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 2702,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
           "numero": 2703,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 2704,
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+        },
+        {
+          "numero": 2705,
           "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
         }
       ]
@@ -2031,38 +2013,38 @@
       "schedule": [
         {
           "numero": 3801,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3802,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 3803,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 3804,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 3805,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 4105,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2075,32 +2057,32 @@
       "schedule": [
         {
           "numero": 5111,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 5112,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 5113,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 5114,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 5115,
-          "date_from": "21.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
         }
       ],
@@ -2112,36 +2094,38 @@
       "type": "Инкасатор",
       "schedule": [
         {
-          "numero": 5602,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "numero": 5601,
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
-          "numero": 5604,
-          "date_from": "18.09.2026",
-          "date_to": "22.09.2026",
+          "numero": 5602,
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 5603,
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 5605,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "26.10.2026",
+          "date_to": "28.10.2026",
           "titular": ""
         }
       ],
       "removed_carnets": [
         {
-          "numero": 5601,
-          "employee": "Не е разпределен"
-        },
-        {
           "numero": 4102,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+          "employee": "НИНА ПЕТЬОВА ЙОТОВА"
         },
         {
-          "numero": 5603,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+          "numero": 5604,
+          "employee": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА"
         }
       ]
     },
@@ -2151,37 +2135,34 @@
       "type": "Инкасатор",
       "schedule": [
         {
-          "numero": 4201,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 4202,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
-          "titular": ""
-        },
-        {
           "numero": 4203,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 4204,
-          "date_from": "16.09.2026",
-          "date_to": "22.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "21.10.2026",
           "titular": ""
         },
         {
           "numero": 4205,
-          "date_from": "23.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "22.10.2026",
+          "date_to": "26.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 4201,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        },
+        {
+          "numero": 4202,
+          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+        }
+      ]
     },
     {
       "id": 206,
@@ -2189,42 +2170,43 @@
       "type": "Инкасатор",
       "schedule": [
         {
+          "numero": 4301,
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
+          "titular": ""
+        },
+        {
           "numero": 5101,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5102,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 5103,
-          "date_from": "17.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 5104,
-          "date_from": "23.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5105,
-          "date_from": "25.09.2026",
-          "date_to": "29.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": [
-        {
-          "numero": 4301,
-          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
-        }
-      ]
+      "removed_carnets": []
     },
     {
       "id": 213,
@@ -2232,40 +2214,78 @@
       "type": "Заместник",
       "schedule": [
         {
-          "numero": 4301,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
-          "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА"
-        },
-        {
-          "numero": 4303,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
-          "titular": "ИРИНА СТЕФАНОВА БАНКОВА"
-        },
-        {
-          "numero": 2803,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
-          "titular": "НАДЯ ХРИСТОФОРОВА МАНЕВА"
-        },
-        {
-          "numero": 2703,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "numero": 2701,
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
         },
         {
-          "numero": 4805,
-          "date_from": "21.09.2026",
-          "date_to": "23.09.2026",
-          "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА"
+          "numero": 2702,
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
         },
         {
-          "numero": 4305,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
+          "numero": 2703,
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
+        },
+        {
+          "numero": 2704,
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
+        },
+        {
+          "numero": 4404,
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
+        },
+        {
+          "numero": 2705,
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
+          "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА"
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 222,
+      "name": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 5141,
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
+          "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА"
+        },
+        {
+          "numero": 5803,
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
+          "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА"
+        },
+        {
+          "numero": 5804,
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
+          "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА"
+        },
+        {
+          "numero": 5604,
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
+          "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА"
+        },
+        {
+          "numero": 5805,
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
+          "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА"
         }
       ],
       "removed_carnets": []
@@ -2277,38 +2297,38 @@
       "schedule": [
         {
           "numero": 2201,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 2202,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 4402,
-          "date_from": "11.09.2026",
-          "date_to": "14.09.2026",
-          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
+          "date_from": "08.10.2026",
+          "date_to": "11.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 2202,
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
+          "titular": ""
         },
         {
           "numero": 2203,
-          "date_from": "15.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 2204,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 2205,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2321,37 +2341,42 @@
       "schedule": [
         {
           "numero": 3701,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 3702,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 3703,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
-        }
-      ],
-      "removed_carnets": [
+        },
         {
           "numero": 3704,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
+          "titular": ""
         },
         {
           "numero": 3705,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+          "date_from": "20.10.2026",
+          "date_to": "25.10.2026",
+          "titular": ""
         },
         {
           "numero": 4805,
-          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+          "date_from": "26.10.2026",
+          "date_to": "27.10.2026",
+          "titular": ""
         }
-      ]
+      ],
+      "removed_carnets": []
     },
     {
       "id": 45,
@@ -2392,8 +2417,8 @@
       "schedule": [
         {
           "numero": 3901,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         }
       ],
@@ -2411,32 +2436,32 @@
       "schedule": [
         {
           "numero": 4901,
-          "date_from": "02.09.2026",
-          "date_to": "08.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "08.10.2026",
           "titular": ""
         },
         {
           "numero": 4902,
-          "date_from": "09.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "09.10.2026",
+          "date_to": "13.10.2026",
           "titular": ""
         },
         {
           "numero": 4903,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "14.10.2026",
+          "date_to": "18.10.2026",
           "titular": ""
         },
         {
           "numero": 4904,
-          "date_from": "17.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "19.10.2026",
+          "date_to": "21.10.2026",
           "titular": ""
         },
         {
           "numero": 4905,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "22.10.2026",
+          "date_to": "26.10.2026",
           "titular": ""
         }
       ],
@@ -2449,41 +2474,42 @@
       "schedule": [
         {
           "numero": 5901,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 5902,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5903,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4303,
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 5904,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5905,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": [
-        {
-          "numero": 4303,
-          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
-        }
-      ]
+      "removed_carnets": []
     },
     {
       "id": 204,
@@ -2492,38 +2518,38 @@
       "schedule": [
         {
           "numero": 4103,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 2601,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 2602,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 2603,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 2604,
-          "date_from": "18.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
         },
         {
           "numero": 2605,
-          "date_from": "25.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "26.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2536,37 +2562,42 @@
       "schedule": [
         {
           "numero": 4501,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 5121,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5122,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
-        }
-      ],
-      "removed_carnets": [
+        },
         {
           "numero": 5123,
-          "employee": "Не е разпределен"
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
+          "titular": ""
         },
         {
           "numero": 5124,
-          "employee": "Не е разпределен"
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
+          "titular": ""
         },
         {
           "numero": 5125,
-          "employee": "Не е разпределен"
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
+          "titular": ""
         }
-      ]
+      ],
+      "removed_carnets": []
     },
     {
       "id": 67,
@@ -2591,38 +2622,38 @@
       "schedule": [
         {
           "numero": 3301,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3902,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 3302,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 3303,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 3304,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 3305,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2635,38 +2666,38 @@
       "schedule": [
         {
           "numero": 2401,
-          "date_from": "02.09.2026",
-          "date_to": "06.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 2402,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 2403,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 2404,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 2405,
-          "date_from": "21.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 3905,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2679,38 +2710,38 @@
       "schedule": [
         {
           "numero": 5161,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 5162,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5163,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 5164,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 5165,
-          "date_from": "17.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 4505,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2724,11 +2755,11 @@
       "removed_carnets": [
         {
           "numero": 4404,
-          "employee": "ПЕРУНИКА СТЕФАНОВА ИВАНОВА"
+          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
         },
         {
           "numero": 4305,
-          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
+          "employee": "НИНА ПЕТЬОВА ЙОТОВА"
         }
       ]
     },
@@ -2739,41 +2770,42 @@
       "schedule": [
         {
           "numero": 2801,
-          "date_from": "01.09.2026",
-          "date_to": "02.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 2802,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
-          "numero": 4504,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "numero": 2803,
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 2804,
-          "date_from": "21.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 4504,
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 2805,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": [
-        {
-          "numero": 2803,
-          "employee": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ"
-        }
-      ]
+      "removed_carnets": []
     },
     {
       "id": 1,
@@ -2782,38 +2814,38 @@
       "schedule": [
         {
           "numero": 3401,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3402,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 3903,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 3403,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "14.10.2026",
+          "titular": ""
+        },
+        {
+          "numero": 3903,
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 3404,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 3405,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -2826,33 +2858,71 @@
       "schedule": [
         {
           "numero": 2101,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 2102,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 2103,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 2104,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 2105,
-          "date_from": "21.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
+        }
+      ],
+      "removed_carnets": []
+    },
+    {
+      "id": 221,
+      "name": "НИНА ПЕТЬОВА ЙОТОВА",
+      "type": "Заместник",
+      "schedule": [
+        {
+          "numero": 4401,
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
+          "titular": "СТИЛИАНА ПАВЛИНОВА НЕДЯЛКОВА"
+        },
+        {
+          "numero": 4302,
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
+          "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА"
+        },
+        {
+          "numero": 4102,
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
+          "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА"
+        },
+        {
+          "numero": 4804,
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
+          "titular": "ВАЛЕНТИНА ЛЕНКОВА МАРИНОВА"
+        },
+        {
+          "numero": 4305,
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
+          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
         }
       ],
       "removed_carnets": []
@@ -2863,40 +2933,28 @@
       "type": "Заместник",
       "schedule": [
         {
-          "numero": 4102,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
-          "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА"
+          "numero": 4201,
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
+          "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА"
         },
         {
-          "numero": 4802,
-          "date_from": "07.09.2026",
-          "date_to": "09.09.2026",
-          "titular": "БОРЯНА БОРИСОВА БОЖИНОВА"
+          "numero": 4202,
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
+          "titular": "ГАЛИНА БОЧЕВА ДИМИТРОВА"
         },
         {
-          "numero": 5603,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
-          "titular": "ГАБРИЕЛА ДИМИТРОВА ВЕЛИНОВА"
+          "numero": 5504,
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
+          "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА"
         },
         {
-          "numero": 3704,
-          "date_from": "15.09.2026",
-          "date_to": "17.09.2026",
-          "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА"
-        },
-        {
-          "numero": 4404,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
-          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
-        },
-        {
-          "numero": 3705,
-          "date_from": "24.09.2026",
-          "date_to": "28.09.2026",
-          "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА"
+          "numero": 5505,
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
+          "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА"
         }
       ],
       "removed_carnets": []
@@ -2908,38 +2966,38 @@
       "schedule": [
         {
           "numero": 4101,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 5131,
-          "date_from": "07.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 5132,
-          "date_from": "10.09.2026",
-          "date_to": "14.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 5133,
-          "date_from": "15.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 5134,
-          "date_from": "18.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5135,
-          "date_from": "23.09.2026",
-          "date_to": "28.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "28.10.2026",
           "titular": ""
         }
       ],
@@ -2952,39 +3010,39 @@
       "schedule": [
         {
           "numero": 4601,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
-          "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА"
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
+          "titular": ""
         },
         {
           "numero": 4602,
-          "date_from": "04.09.2026",
-          "date_to": "09.09.2026",
-          "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА"
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
+          "titular": ""
         },
         {
           "numero": 4403,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
-          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
+          "date_from": "13.10.2026",
+          "date_to": "14.10.2026",
+          "titular": ""
         },
         {
           "numero": 4603,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
-          "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА"
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
+          "titular": ""
         },
         {
           "numero": 4604,
-          "date_from": "17.09.2026",
-          "date_to": "23.09.2026",
-          "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА"
+          "date_from": "20.10.2026",
+          "date_to": "25.10.2026",
+          "titular": ""
         },
         {
           "numero": 4605,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
-          "titular": "ПЕТЯ ПЕТРОВА НИКОЛОВА"
+          "date_from": "26.10.2026",
+          "date_to": "27.10.2026",
+          "titular": ""
         }
       ],
       "removed_carnets": []
@@ -2996,42 +3054,41 @@
       "schedule": [
         {
           "numero": 3601,
-          "date_from": "01.09.2026",
-          "date_to": "02.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3602,
-          "date_from": "07.09.2026",
-          "date_to": "09.09.2026",
-          "titular": ""
-        },
-        {
-          "numero": 4302,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 3603,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 3604,
-          "date_from": "17.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 3605,
-          "date_from": "20.09.2026",
-          "date_to": "22.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 4302,
+          "employee": "НИНА ПЕТЬОВА ЙОТОВА"
+        }
+      ]
     },
     {
       "id": 203,
@@ -3040,38 +3097,38 @@
       "schedule": [
         {
           "numero": 4801,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 3201,
-          "date_from": "08.09.2026",
-          "date_to": "09.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 3202,
-          "date_from": "10.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "13.10.2026",
           "titular": ""
         },
         {
           "numero": 3203,
-          "date_from": "14.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "14.10.2026",
+          "date_to": "18.10.2026",
           "titular": ""
         },
         {
           "numero": 3204,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "19.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 3205,
-          "date_from": "18.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         }
       ],
@@ -3083,43 +3140,40 @@
       "type": "Инкасатор",
       "schedule": [
         {
-          "numero": 4401,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
-          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
-        },
-        {
-          "numero": 5141,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
-          "titular": ""
-        },
-        {
           "numero": 5142,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 5143,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 5144,
-          "date_from": "21.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 5145,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
-      "removed_carnets": []
+      "removed_carnets": [
+        {
+          "numero": 4401,
+          "employee": "НИНА ПЕТЬОВА ЙОТОВА"
+        },
+        {
+          "numero": 5141,
+          "employee": "ДАНИЕЛА ГЕОРГИЕВА ЦВЕТАНОВА"
+        }
+      ]
     },
     {
       "id": 220,
@@ -3128,38 +3182,38 @@
       "schedule": [
         {
           "numero": 5201,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         },
         {
           "numero": 5202,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         },
         {
           "numero": 5203,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         },
         {
           "numero": 4803,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         },
         {
           "numero": 5204,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         },
         {
           "numero": 5205,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "26.10.2026",
+          "date_to": "27.10.2026",
           "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА"
         }
       ],
@@ -3172,32 +3226,32 @@
       "schedule": [
         {
           "numero": 2501,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 2502,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 2503,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 2504,
-          "date_from": "16.09.2026",
-          "date_to": "20.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 2505,
-          "date_from": "21.09.2026",
-          "date_to": "24.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
         }
       ],
@@ -3210,38 +3264,38 @@
       "schedule": [
         {
           "numero": 4701,
-          "date_from": "02.09.2026",
-          "date_to": "07.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "07.10.2026",
           "titular": ""
         },
         {
           "numero": 4702,
-          "date_from": "08.09.2026",
-          "date_to": "10.09.2026",
+          "date_from": "08.10.2026",
+          "date_to": "12.10.2026",
           "titular": ""
         },
         {
           "numero": 4703,
-          "date_from": "11.09.2026",
-          "date_to": "15.09.2026",
+          "date_from": "13.10.2026",
+          "date_to": "15.10.2026",
           "titular": ""
         },
         {
           "numero": 4704,
-          "date_from": "16.09.2026",
-          "date_to": "17.09.2026",
+          "date_from": "16.10.2026",
+          "date_to": "20.10.2026",
           "titular": ""
         },
         {
           "numero": 4304,
-          "date_from": "18.09.2026",
-          "date_to": "23.09.2026",
+          "date_from": "21.10.2026",
+          "date_to": "25.10.2026",
           "titular": ""
         },
         {
           "numero": 4705,
-          "date_from": "24.09.2026",
-          "date_to": "27.09.2026",
+          "date_from": "26.10.2026",
+          "date_to": "27.10.2026",
           "titular": ""
         }
       ],
@@ -3254,25 +3308,30 @@
       "schedule": [
         {
           "numero": 7101,
-          "date_from": "02.09.2026",
-          "date_to": "08.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "08.10.2026",
           "titular": ""
-        }
-      ],
-      "removed_carnets": [
+        },
         {
           "numero": 7102,
-          "employee": "Не е разпределен"
+          "date_from": "09.10.2026",
+          "date_to": "13.10.2026",
+          "titular": ""
         },
         {
           "numero": 7103,
-          "employee": "Не е разпределен"
+          "date_from": "14.10.2026",
+          "date_to": "18.10.2026",
+          "titular": ""
         },
         {
           "numero": 7104,
-          "employee": "Не е разпределен"
+          "date_from": "19.10.2026",
+          "date_to": "21.10.2026",
+          "titular": ""
         }
-      ]
+      ],
+      "removed_carnets": []
     },
     {
       "id": 33,
@@ -3281,39 +3340,39 @@
       "schedule": [
         {
           "numero": 5701,
-          "date_from": "02.09.2026",
-          "date_to": "03.09.2026",
+          "date_from": "05.10.2026",
+          "date_to": "06.10.2026",
           "titular": ""
         },
         {
           "numero": 5702,
-          "date_from": "04.09.2026",
-          "date_to": "08.09.2026",
+          "date_from": "07.10.2026",
+          "date_to": "11.10.2026",
           "titular": ""
         },
         {
           "numero": 5703,
-          "date_from": "09.09.2026",
-          "date_to": "13.09.2026",
+          "date_from": "12.10.2026",
+          "date_to": "14.10.2026",
           "titular": ""
         },
         {
           "numero": 5704,
-          "date_from": "14.09.2026",
-          "date_to": "16.09.2026",
+          "date_from": "15.10.2026",
+          "date_to": "19.10.2026",
           "titular": ""
         },
         {
           "numero": 5705,
-          "date_from": "17.09.2026",
-          "date_to": "21.09.2026",
+          "date_from": "20.10.2026",
+          "date_to": "22.10.2026",
           "titular": ""
         },
         {
           "numero": 4405,
-          "date_from": "23.09.2026",
-          "date_to": "27.09.2026",
-          "titular": "МИЛЕНА ЙОРДАНОВА ГЕОРГИЕВА"
+          "date_from": "23.10.2026",
+          "date_to": "27.10.2026",
+          "titular": ""
         }
       ],
       "removed_carnets": []
