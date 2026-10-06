@@ -1,6 +1,6 @@
 {
-  "updated_at": "05.10.2026 08:18",
-  "today": "05.10.2026",
+  "updated_at": "06.10.2026 15:29",
+  "today": "06.10.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "05.10.2026",
