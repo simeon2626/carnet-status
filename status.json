@@ -1,6 +1,6 @@
 {
-  "updated_at": "09.10.2026 08:15",
-  "today": "09.10.2026",
+  "updated_at": "12.10.2026 08:33",
+  "today": "12.10.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -239,7 +239,7 @@
     {
       "numero": 2702,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВЕНЕТА МАРГАРИТОВА СТОЯНОВА",
       "incasator": "ГЕОРГИ НИКОЛАЕВ АТАНАСОВ",
       "date_from": "07.10.2026",
@@ -365,7 +365,7 @@
     {
       "numero": 3201,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "08.10.2026",
@@ -554,7 +554,7 @@
     {
       "numero": 3702,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "07.10.2026",
@@ -824,7 +824,7 @@
     {
       "numero": 4402,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "incasator": "ДЕСИСЛАВА ИВАНОВА КИРКОВА",
       "date_from": "08.10.2026",
@@ -869,7 +869,7 @@
     {
       "numero": 4502,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "07.10.2026",
@@ -1031,7 +1031,7 @@
     {
       "numero": 4901,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "05.10.2026",
@@ -1076,7 +1076,7 @@
     {
       "numero": 5101,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "date_from": "08.10.2026",
@@ -1166,7 +1166,7 @@
     {
       "numero": 5121,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "07.10.2026",
@@ -1310,7 +1310,7 @@
     {
       "numero": 5162,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "07.10.2026",
@@ -1400,7 +1400,7 @@
     {
       "numero": 5302,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "08.10.2026",
@@ -1580,7 +1580,7 @@
     {
       "numero": 5702,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "incasator": "ЦЕЦА ЦЕКОВА ПЕТКОВА",
       "date_from": "07.10.2026",
@@ -1670,7 +1670,7 @@
     {
       "numero": 5902,
       "column": 1,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ИРИНА СТЕФАНОВА БАНКОВА",
       "incasator": "ИРИНА СТЕФАНОВА БАНКОВА",
       "date_from": "07.10.2026",
@@ -1706,7 +1706,7 @@
     {
       "numero": 7101,
       "column": 0,
-      "status": "completed_today",
+      "status": "completed_prev",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "05.10.2026",
