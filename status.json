@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 08:10",
+  "updated_at": "13.10.2026 08:30",
   "today": "13.10.2026",
   "carnets": [
     {
@@ -779,7 +779,7 @@
     {
       "numero": 4302,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "СВЕТЛАНА ХРИСТОВА МАРКОВА",
       "incasator": "НИНА ПЕТЬОВА ЙОТОВА",
       "date_from": "08.10.2026",
@@ -1130,7 +1130,7 @@
     {
       "numero": 5112,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "incasator": "ВЕСЕЛКА ГЕОРГИЕВА ДИМИТРОВА",
       "date_from": "08.10.2026",
