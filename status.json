@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 08:01",
+  "updated_at": "15.10.2026 08:14",
   "today": "15.10.2026",
   "carnets": [
     {
@@ -563,7 +563,7 @@
     {
       "numero": 3703,
       "column": 2,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "12.10.2026",
