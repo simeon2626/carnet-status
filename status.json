@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 08:00",
+  "updated_at": "16.10.2026 09:18",
   "today": "16.10.2026",
   "carnets": [
     {
@@ -1085,7 +1085,7 @@
     {
       "numero": 5102,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "incasator": "ГАЛИНА ЙОРДАНОВА ЙОЧЕВА-МАРИНОВА",
       "date_from": "12.10.2026",
