@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 09:18",
+  "updated_at": "16.10.2026 10:57",
   "today": "16.10.2026",
   "carnets": [
     {
@@ -1220,7 +1220,7 @@
     {
       "numero": 5132,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "incasator": "ПОЛЯ ГЕОРГИЕВА ВЪЛОВА",
       "date_from": "13.10.2026",
