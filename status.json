@@ -1,6 +1,6 @@
 {
-  "updated_at": "17.10.2026 21:13",
-  "today": "17.10.2026",
+  "updated_at": "19.10.2026 08:07",
+  "today": "19.10.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -383,7 +383,7 @@
     {
       "numero": 3203,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "incasator": "СИЛВИЯ ЙОВЕЛИНОВА ТОДОРОВА",
       "date_from": "14.10.2026",
@@ -1049,7 +1049,7 @@
     {
       "numero": 4903,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "incasator": "ИРИНА ВУТЕВА ГЕОРГИЕВА",
       "date_from": "14.10.2026",
@@ -1499,7 +1499,7 @@
     {
       "numero": 5503,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "15.10.2026",
@@ -1724,7 +1724,7 @@
     {
       "numero": 7103,
       "column": 2,
-      "status": "upcoming",
+      "status": "expected",
       "titular": "ХРИСТО КИРОВ ДИМИТРОВ",
       "incasator": "ХРИСТО КИРОВ ДИМИТРОВ",
       "date_from": "14.10.2026",
