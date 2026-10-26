@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 08:07",
+  "updated_at": "26.10.2026 08:16",
   "today": "26.10.2026",
   "carnets": [
     {
@@ -1373,7 +1373,7 @@
     {
       "numero": 5204,
       "column": 3,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "ЗОЯ ТОДОРОВА ТОДОРОВА",
       "incasator": "ТАНЯ МАРИНОВА СТОЯНОВА",
       "date_from": "21.10.2026",
