@@ -1,6 +1,6 @@
 {
-  "updated_at": "04.11.2026 08:02",
-  "today": "04.11.2026",
+  "updated_at": "05.11.2026 08:11",
+  "today": "05.11.2026",
   "carnets": [
     {
       "numero": 2101,
@@ -545,7 +545,7 @@
     {
       "numero": 3701,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "incasator": "ЕЛИЯ БАГРЯНОВА ГАВРИЛОВА",
       "date_from": "03.11.2026",
@@ -860,7 +860,7 @@
     {
       "numero": 4501,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "incasator": "ЙОАНА МИЛЧЕВА МАТЕВА",
       "date_from": "03.11.2026",
@@ -1301,7 +1301,7 @@
     {
       "numero": 5161,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "incasator": "МИГЛЕНА ЕМИЛОВА ВАСИЛЕВА",
       "date_from": "03.11.2026",
@@ -1481,7 +1481,7 @@
     {
       "numero": 5501,
       "column": 0,
-      "status": "upcoming",
+      "status": "completed_today",
       "titular": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "incasator": "ВАНЯ МИТКОВА КАРАИВАНОВА",
       "date_from": "03.11.2026",
