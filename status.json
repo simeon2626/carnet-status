@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.11.2026 08:00",
+  "updated_at": "13.11.2026 08:15",
   "today": "13.11.2026",
   "carnets": [
     {
@@ -995,7 +995,7 @@
     {
       "numero": 4802,
       "column": 1,
-      "status": "expected",
+      "status": "completed_today",
       "titular": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "incasator": "БОРЯНА БОРИСОВА БОЖИНОВА",
       "date_from": "10.11.2026",
